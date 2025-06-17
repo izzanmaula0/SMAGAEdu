@@ -1,0 +1,35 @@
+{
+    "namaSekolah": "SMP dan SMA Muhammadiyah Gatak",
+    "alamat": "Jl. Contoh No. 123, Gatak, Sukoharjo",
+    "telepon": "(0271) 123456",
+    "email": "info@smapmuhammadiyahgatak.sch.id",
+    "website": "www.smapmuhammadiyahgatak.sch.id",
+    "didirikan": "1985",
+    "jumlahSiswa": {
+      "SMP": 350,
+      "SMA": 420
+    },
+    "visi": "Mewujudkan sekolah unggul yang berbasis nilai-nilai Islam dan Kemuhammadiyahan untuk mencetak kader bangsa yang berakhlak mulia, cerdas, dan kompetitif",
+    "misi": [
+      "Menyelenggarakan pendidikan Islam berdasarkan Al-Qur'an dan Sunnah",
+      "Mengembangkan pembelajaran aktif, inovatif, kreatif, efektif, dan menyenangkan",
+      "Menumbuhkan semangat keunggulan di bidang akademik dan non-akademik",
+      "Membekali siswa dengan keterampilan hidup dan jiwa kepemimpinan",
+      "Menjalin kerjasama dengan berbagai pihak untuk pengembangan mutu pendidikan"
+    ],
+    "keunggulan": [
+      "Program tahfidz Al-Qur'an",
+      "Pembelajaran berbasis teknologi",
+      "Ekstrakurikuler beragam dan berprestasi",
+      "Fasilitas lengkap dan modern",
+      "Tenaga pengajar profesional"
+    ],
+    "akreditasi": {
+      "SMP": "A",
+      "SMA": "A"
+    },
+    "kepalaSekolah": {
+      "SMP": "Drs. Ahmad Hidayat, M.Pd.",
+      "SMA": "Dra. Siti Munawaroh, M.Pd."
+    }
+  }

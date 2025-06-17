@@ -1,0 +1,5435 @@
+POST Data for edit: Array
+(
+    [ujian_id] => 92
+    [judul] => TEST (jangan masuk cuman test)
+    [mata_pelajaran] => Bahasa Indonesia
+    [kelas_id] => 63
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Menjaga dan Melestarikan Tradisi, Kearifan Lokal, serta Budaya dalam Masyarakat Global
+            [1] => Mendeskripsikan Objek
+        )
+
+    [tanggal_mulai] => 2025-05-05T21:56
+    [tanggal_selesai] => 2025-05-06T21:56
+    [durasi] => 1440
+)
+
+
+Materi before filter: Array
+(
+    [0] => Menjaga dan Melestarikan Tradisi, Kearifan Lokal, serta Budaya dalam Masyarakat Global
+    [1] => Mendeskripsikan Objek
+)
+
+Materi after filter: Array
+(
+    [0] => Menjaga dan Melestarikan Tradisi, Kearifan Lokal, serta Budaya dalam Masyarakat Global
+    [1] => Mendeskripsikan Objek
+)
+
+Materi JSON: ["Menjaga dan Melestarikan Tradisi, Kearifan Lokal, serta Budaya dalam Masyarakat Global","Mendeskripsikan Objek"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 92
+    [judul] => TEST (jangan masuk cuman test)
+    [mata_pelajaran] => Bahasa Indonesia
+    [kelas_id] => 63
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Simbiosis
+            [1] => Iman kepada Allah SWT
+        )
+
+    [tanggal_mulai] => 2025-05-05T21:56
+    [tanggal_selesai] => 2025-05-06T21:56
+    [durasi] => 1440
+)
+
+
+Materi before filter: Array
+(
+    [0] => Simbiosis
+    [1] => Iman kepada Allah SWT
+)
+
+Materi after filter: Array
+(
+    [0] => Simbiosis
+    [1] => Iman kepada Allah SWT
+)
+
+Materi JSON: ["Simbiosis","Iman kepada Allah SWT"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 104
+    [judul] => Assesment Sumatif Akhir Jenjang (ASAJ)
+    [mata_pelajaran] => Bahasa Indonesia
+    [kelas_id] => 63
+    [deskripsi] => 
+    [tanggal_mulai] => 2025-05-07T17:12
+    [tanggal_selesai] => 2025-05-07T20:12
+    [durasi] => 180
+)
+
+
+Materi before filter: Array
+(
+)
+
+Materi after filter: Array
+(
+)
+
+Materi JSON: []
+
+POST Data for edit: Array
+(
+    [ujian_id] => 92
+    [judul] => TEST (jangan masuk cuman test)
+    [mata_pelajaran] => Bahasa Indonesia
+    [kelas_id] => 63
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Simbiosis
+            [1] => Iman kepada Allah SWT
+        )
+
+    [tanggal_mulai] => 2025-05-07T21:56
+    [tanggal_selesai] => 2025-05-08T21:56
+    [durasi] => 1440
+)
+
+
+Materi before filter: Array
+(
+    [0] => Simbiosis
+    [1] => Iman kepada Allah SWT
+)
+
+Materi after filter: Array
+(
+    [0] => Simbiosis
+    [1] => Iman kepada Allah SWT
+)
+
+Materi JSON: ["Simbiosis","Iman kepada Allah SWT"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 92
+    [judul] => TEST (jangan masuk cuman test)
+    [mata_pelajaran] => Bahasa Indonesia
+    [kelas_id] => 63
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Simbiosis
+            [1] => Iman kepada Allah SWT
+        )
+
+    [tanggal_mulai] => 2025-05-07T17:56
+    [tanggal_selesai] => 2025-05-08T21:56
+    [durasi] => 1680
+)
+
+
+Materi before filter: Array
+(
+    [0] => Simbiosis
+    [1] => Iman kepada Allah SWT
+)
+
+Materi after filter: Array
+(
+    [0] => Simbiosis
+    [1] => Iman kepada Allah SWT
+)
+
+Materi JSON: ["Simbiosis","Iman kepada Allah SWT"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 92
+    [judul] => TEST (jangan masuk cuman test)
+    [mata_pelajaran] => Bahasa Indonesia
+    [kelas_id] => 63
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Simbiosis
+            [1] => Iman kepada Allah SWT
+        )
+
+    [tanggal_mulai] => 2025-05-08T17:56
+    [tanggal_selesai] => 2025-05-09T21:56
+    [durasi] => 1680
+)
+
+
+Materi before filter: Array
+(
+    [0] => Simbiosis
+    [1] => Iman kepada Allah SWT
+)
+
+Materi after filter: Array
+(
+    [0] => Simbiosis
+    [1] => Iman kepada Allah SWT
+)
+
+Materi JSON: ["Simbiosis","Iman kepada Allah SWT"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 98
+    [judul] => ASAJ SBK
+    [mata_pelajaran] => Seni Budaya
+    [kelas_id] => 101
+    [deskripsi] => Seni musik
+    [materi] => Array
+        (
+            [0] => teknik vokal bernyanyi,jenis-jenis alat musik,alat musik
+        )
+
+    [tanggal_mulai] => 2025-05-09T07:50
+    [tanggal_selesai] => 2025-05-09T09:35
+    [durasi] => 105
+)
+
+
+Materi before filter: Array
+(
+    [0] => teknik vokal bernyanyi,jenis-jenis alat musik,alat musik
+)
+
+Materi after filter: Array
+(
+    [0] => teknik vokal bernyanyi,jenis-jenis alat musik,alat musik
+)
+
+Materi JSON: ["teknik vokal bernyanyi,jenis-jenis alat musik,alat musik"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 85
+    [judul] => Assesment Sumatif Akhir Jenjang (ASAJ)
+    [mata_pelajaran] => TIK
+    [kelas_id] => 88
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Sistem Komputer
+            [1] => Microsoft Excel
+            [2] => Flowchart
+            [3] => software dan hardware
+        )
+
+    [tanggal_mulai] => 2025-05-09T12:00
+    [tanggal_selesai] => 2025-05-09T15:00
+    [durasi] => 180
+)
+
+
+Materi before filter: Array
+(
+    [0] => Sistem Komputer
+    [1] => Microsoft Excel
+    [2] => Flowchart
+    [3] => software dan hardware
+)
+
+Materi after filter: Array
+(
+    [0] => Sistem Komputer
+    [1] => Microsoft Excel
+    [2] => Flowchart
+    [3] => software dan hardware
+)
+
+Materi JSON: ["Sistem Komputer","Microsoft Excel","Flowchart","software dan hardware"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 105
+    [judul] => ASAT 2025 INFORMATIKA KELAS X
+    [mata_pelajaran] => Informatika
+    [kelas_id] => 76
+    [deskripsi] => 1.	Bacalah baik-baik setiap soal dan pahami benar-benar maknanya !
+2.	Kerjakan setiap kelompok soal sesuai dengan perintahnya !
+3.	Telitilah hasil pekerjaan anda sekali lagi, sebelum anda serahkan pada pengawas !
+4.	Jangan bertindak curang dalam bentuk apapun !
+5.	Mulailah pekerjaan anda dengan membaca “Basmallah” dan akhiri dengan bacaan “Hamdallah” !
+
+    [materi] => Array
+        (
+            [0] => Analisis data
+            [1] => algoritma dan pemrograman
+            [2] => dampak sosial informatika
+        )
+
+    [tanggal_mulai] => 2025-05-23T10:00
+    [tanggal_selesai] => 2025-05-23T16:00
+    [durasi] => 360
+)
+
+
+Materi before filter: Array
+(
+    [0] => Analisis data
+    [1] => algoritma dan pemrograman
+    [2] => dampak sosial informatika
+)
+
+Materi after filter: Array
+(
+    [0] => Analisis data
+    [1] => algoritma dan pemrograman
+    [2] => dampak sosial informatika
+)
+
+Materi JSON: ["Analisis data","algoritma dan pemrograman","dampak sosial informatika"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 105
+    [judul] => ASAT 2025 INFORMATIKA KELAS X
+    [mata_pelajaran] => Informatika
+    [kelas_id] => 76
+    [deskripsi] => 1.	Bacalah baik-baik setiap soal dan pahami benar-benar maknanya !<br>
+2.	Kerjakan setiap kelompok soal sesuai dengan perintahnya !<br>
+3.	Telitilah hasil pekerjaan anda sekali lagi, sebelum anda serahkan pada pengawas !<br>
+4.	Jangan bertindak curang dalam bentuk apapun !<br>
+5.	Mulailah pekerjaan anda dengan membaca “Basmallah” dan akhiri dengan bacaan “Hamdallah” !
+    [materi] => Array
+        (
+            [0] => Analisis data
+            [1] => algoritma dan pemrograman
+            [2] => dampak sosial informatika
+        )
+
+    [tanggal_mulai] => 2025-05-23T10:00
+    [tanggal_selesai] => 2025-05-23T16:00
+    [durasi] => 360
+)
+
+
+Materi before filter: Array
+(
+    [0] => Analisis data
+    [1] => algoritma dan pemrograman
+    [2] => dampak sosial informatika
+)
+
+Materi after filter: Array
+(
+    [0] => Analisis data
+    [1] => algoritma dan pemrograman
+    [2] => dampak sosial informatika
+)
+
+Materi JSON: ["Analisis data","algoritma dan pemrograman","dampak sosial informatika"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 105
+    [judul] => ASAT 2025 INFORMATIKA KELAS X
+    [mata_pelajaran] => Informatika
+    [kelas_id] => 76
+    [deskripsi] => Mulailah pekerjaan anda dengan membaca “Basmallah” dan akhiri dengan bacaan “Hamdallah” 
+    [materi] => Array
+        (
+            [0] => Analisis data
+            [1] => algoritma dan pemrograman
+            [2] => dampak sosial informatika
+        )
+
+    [tanggal_mulai] => 2025-05-23T10:00
+    [tanggal_selesai] => 2025-05-23T16:00
+    [durasi] => 360
+)
+
+
+Materi before filter: Array
+(
+    [0] => Analisis data
+    [1] => algoritma dan pemrograman
+    [2] => dampak sosial informatika
+)
+
+Materi after filter: Array
+(
+    [0] => Analisis data
+    [1] => algoritma dan pemrograman
+    [2] => dampak sosial informatika
+)
+
+Materi JSON: ["Analisis data","algoritma dan pemrograman","dampak sosial informatika"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 92
+    [judul] => TEST (jangan masuk cuman test)
+    [mata_pelajaran] => Bahasa Indonesia
+    [kelas_id] => 63
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Simbiosis
+            [1] => Iman kepada Allah SWT
+        )
+
+    [tanggal_mulai] => 2025-05-11T00:00
+    [tanggal_selesai] => 2025-05-12T00:00
+    [durasi] => 1440
+)
+
+
+Materi before filter: Array
+(
+    [0] => Simbiosis
+    [1] => Iman kepada Allah SWT
+)
+
+Materi after filter: Array
+(
+    [0] => Simbiosis
+    [1] => Iman kepada Allah SWT
+)
+
+Materi JSON: ["Simbiosis","Iman kepada Allah SWT"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 88
+    [judul] => ASAT GEOGRAFI KELAS XI
+    [mata_pelajaran] => Geografi
+    [kelas_id] => 91
+    [deskripsi] => Asesmen Sumatif Akhir Tahun Geografi Kelas XI
+    [materi] => Array
+        (
+            [0] => Posisi strategis dan maritim Indonesia
+            [1] => Flora dan Fauna di Indonesia dan dunia
+            [2] => Dinamika Penduduk
+            [3] => Mitigasi Bencana
+        )
+
+    [tanggal_mulai] => 2025-05-03T10:28
+    [tanggal_selesai] => 2025-05-04T10:28
+    [durasi] => 1440
+)
+
+
+Materi before filter: Array
+(
+    [0] => Posisi strategis dan maritim Indonesia
+    [1] => Flora dan Fauna di Indonesia dan dunia
+    [2] => Dinamika Penduduk
+    [3] => Mitigasi Bencana
+)
+
+Materi after filter: Array
+(
+    [0] => Posisi strategis dan maritim Indonesia
+    [1] => Flora dan Fauna di Indonesia dan dunia
+    [2] => Dinamika Penduduk
+    [3] => Mitigasi Bencana
+)
+
+Materi JSON: ["Posisi strategis dan maritim Indonesia","Flora dan Fauna di Indonesia dan dunia","Dinamika Penduduk","Mitigasi Bencana"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 88
+    [judul] => ASAT GEOGRAFI KELAS XI
+    [mata_pelajaran] => Geografi
+    [kelas_id] => 91
+    [deskripsi] => Asesmen Sumatif Akhir Tahun Geografi Kelas XI
+    [materi] => Array
+        (
+            [0] => Posisi strategis dan maritim Indonesia
+            [1] => Flora dan Fauna di Indonesia dan dunia
+            [2] => Dinamika Penduduk
+            [3] => Mitigasi Bencana
+        )
+
+    [tanggal_mulai] => 2025-05-21T08:15
+    [tanggal_selesai] => 2025-05-21T10:00
+    [durasi] => 105
+)
+
+
+Materi before filter: Array
+(
+    [0] => Posisi strategis dan maritim Indonesia
+    [1] => Flora dan Fauna di Indonesia dan dunia
+    [2] => Dinamika Penduduk
+    [3] => Mitigasi Bencana
+)
+
+Materi after filter: Array
+(
+    [0] => Posisi strategis dan maritim Indonesia
+    [1] => Flora dan Fauna di Indonesia dan dunia
+    [2] => Dinamika Penduduk
+    [3] => Mitigasi Bencana
+)
+
+Materi JSON: ["Posisi strategis dan maritim Indonesia","Flora dan Fauna di Indonesia dan dunia","Dinamika Penduduk","Mitigasi Bencana"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 88
+    [judul] => ASAT GEOGRAFI KELAS XI
+    [mata_pelajaran] => Geografi
+    [kelas_id] => 91
+    [deskripsi] => Asesmen Sumatif Akhir Tahun Geografi Kelas XI
+    [materi] => Array
+        (
+            [0] => Posisi strategis dan maritim Indonesia
+            [1] => Flora dan Fauna di Indonesia dan dunia
+            [2] => Dinamika Penduduk
+            [3] => Mitigasi Bencana
+        )
+
+    [tanggal_mulai] => 2025-05-21T08:15
+    [tanggal_selesai] => 2025-05-21T10:00
+    [durasi] => 105
+)
+
+
+Materi before filter: Array
+(
+    [0] => Posisi strategis dan maritim Indonesia
+    [1] => Flora dan Fauna di Indonesia dan dunia
+    [2] => Dinamika Penduduk
+    [3] => Mitigasi Bencana
+)
+
+Materi after filter: Array
+(
+    [0] => Posisi strategis dan maritim Indonesia
+    [1] => Flora dan Fauna di Indonesia dan dunia
+    [2] => Dinamika Penduduk
+    [3] => Mitigasi Bencana
+)
+
+Materi JSON: ["Posisi strategis dan maritim Indonesia","Flora dan Fauna di Indonesia dan dunia","Dinamika Penduduk","Mitigasi Bencana"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 118
+    [judul] => asesmen sumatif akhir tahun
+    [mata_pelajaran] => Bahasa Indonesia
+    [kelas_id] => 106
+    [deskripsi] => kerjakan dengan memilih jawaban yang benar
+    [materi] => Array
+        (
+            [0] => reviuf fim, cerita
+            [1] => teks pidato
+            [2] => teks ceramah
+            [3] => teks surat lamaran pekerjaan
+        )
+
+    [tanggal_mulai] => 2025-05-21T10:00
+    [tanggal_selesai] => 2025-05-21T12:00
+    [durasi] => 120
+)
+
+
+Materi before filter: Array
+(
+    [0] => reviuf fim, cerita
+    [1] => teks pidato
+    [2] => teks ceramah
+    [3] => teks surat lamaran pekerjaan
+)
+
+Materi after filter: Array
+(
+    [0] => reviuf fim, cerita
+    [1] => teks pidato
+    [2] => teks ceramah
+    [3] => teks surat lamaran pekerjaan
+)
+
+Materi JSON: ["reviuf fim, cerita","teks pidato","teks ceramah","teks surat lamaran pekerjaan"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 90
+    [judul] => ASAT MATEMATIKA KELAS X - FASE E
+    [mata_pelajaran] => Matematika
+    [kelas_id] => 92
+    [deskripsi] => Pilihlah jawaban di bawah ini dengan benar
+    [materi] => Array
+        (
+            [0] => Sistem Persamaan Linier Tiga Variabel
+            [1] => Sistem Pertidaksamaan Dua Variabel
+            [2] => Barisan dan Deret
+            [3] => Penyajian dan Pengolahan Data Statistika
+            [4] => Peluang Kejadian
+        )
+
+    [tanggal_mulai] => 2025-05-28T06:30
+    [tanggal_selesai] => 2025-05-28T11:24
+    [durasi] => 294
+)
+
+
+Materi before filter: Array
+(
+    [0] => Sistem Persamaan Linier Tiga Variabel
+    [1] => Sistem Pertidaksamaan Dua Variabel
+    [2] => Barisan dan Deret
+    [3] => Penyajian dan Pengolahan Data Statistika
+    [4] => Peluang Kejadian
+)
+
+Materi after filter: Array
+(
+    [0] => Sistem Persamaan Linier Tiga Variabel
+    [1] => Sistem Pertidaksamaan Dua Variabel
+    [2] => Barisan dan Deret
+    [3] => Penyajian dan Pengolahan Data Statistika
+    [4] => Peluang Kejadian
+)
+
+Materi JSON: ["Sistem Persamaan Linier Tiga Variabel","Sistem Pertidaksamaan Dua Variabel","Barisan dan Deret","Penyajian dan Pengolahan Data Statistika","Peluang Kejadian"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 90
+    [judul] => ASAT MATEMATIKA KELAS X - FASE E
+    [mata_pelajaran] => Matematika
+    [kelas_id] => 92
+    [deskripsi] => Pilihlah jawaban di bawah ini dengan benar
+    [materi] => Array
+        (
+            [0] => Sistem Persamaan Linier Tiga Variabel
+            [1] => Sistem Pertidaksamaan Dua Variabel
+            [2] => Barisan dan Deret
+            [3] => Penyajian dan Pengolahan Data Statistika
+            [4] => Peluang Kejadian
+        )
+
+    [tanggal_mulai] => 2025-05-28T06:30
+    [tanggal_selesai] => 2025-05-28T10:00
+    [durasi] => 210
+)
+
+
+Materi before filter: Array
+(
+    [0] => Sistem Persamaan Linier Tiga Variabel
+    [1] => Sistem Pertidaksamaan Dua Variabel
+    [2] => Barisan dan Deret
+    [3] => Penyajian dan Pengolahan Data Statistika
+    [4] => Peluang Kejadian
+)
+
+Materi after filter: Array
+(
+    [0] => Sistem Persamaan Linier Tiga Variabel
+    [1] => Sistem Pertidaksamaan Dua Variabel
+    [2] => Barisan dan Deret
+    [3] => Penyajian dan Pengolahan Data Statistika
+    [4] => Peluang Kejadian
+)
+
+Materi JSON: ["Sistem Persamaan Linier Tiga Variabel","Sistem Pertidaksamaan Dua Variabel","Barisan dan Deret","Penyajian dan Pengolahan Data Statistika","Peluang Kejadian"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 99
+    [judul] => ASAT BAHASA INGGRIS 2025 (FASE E)
+    [mata_pelajaran] => Bahasa Inggris
+    [kelas_id] => 102
+    [deskripsi] => KERJAKAN DENGAN TELITI
+    [materi] => Array
+        (
+            [0] => Analytical Exposition
+            [1] => Giving Opinions and Thought
+            [2] => Recount
+            [3] => Making an Appointment
+            [4] => Report:News
+            [5] => Giving Good News and Bad News
+            [6] => Song Lyrics
+            [7] => Inviting and Offer
+        )
+
+    [tanggal_mulai] => 2025-05-27T08:00
+    [tanggal_selesai] => 2025-05-27T09:50
+    [durasi] => 110
+)
+
+
+Materi before filter: Array
+(
+    [0] => Analytical Exposition
+    [1] => Giving Opinions and Thought
+    [2] => Recount
+    [3] => Making an Appointment
+    [4] => Report:News
+    [5] => Giving Good News and Bad News
+    [6] => Song Lyrics
+    [7] => Inviting and Offer
+)
+
+Materi after filter: Array
+(
+    [0] => Analytical Exposition
+    [1] => Giving Opinions and Thought
+    [2] => Recount
+    [3] => Making an Appointment
+    [4] => Report:News
+    [5] => Giving Good News and Bad News
+    [6] => Song Lyrics
+    [7] => Inviting and Offer
+)
+
+Materi JSON: ["Analytical Exposition","Giving Opinions and Thought","Recount","Making an Appointment","Report:News","Giving Good News and Bad News","Song Lyrics","Inviting and Offer"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 120
+    [judul] => ASAT SOSIOLOGI KELAS X
+    [mata_pelajaran] => Sosiologi
+    [kelas_id] => 90
+    [deskripsi] => -
+    [materi] => Array
+        (
+            [0] => Lembaga sosial
+            [1] => Ragam gejala sosial pada masyarakat multikultural
+        )
+
+    [tanggal_mulai] => 2025-05-22T10:15
+    [tanggal_selesai] => 2025-05-22T11:45
+    [durasi] => 90
+)
+
+
+Materi before filter: Array
+(
+    [0] => Lembaga sosial
+    [1] => Ragam gejala sosial pada masyarakat multikultural
+)
+
+Materi after filter: Array
+(
+    [0] => Lembaga sosial
+    [1] => Ragam gejala sosial pada masyarakat multikultural
+)
+
+Materi JSON: ["Lembaga sosial","Ragam gejala sosial pada masyarakat multikultural"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 120
+    [judul] => ASAT SOSIOLOGI KELAS X
+    [mata_pelajaran] => Sosiologi
+    [kelas_id] => 90
+    [deskripsi] => -
+    [materi] => Array
+        (
+            [0] => Lembaga sosial
+            [1] => Ragam gejala sosial pada masyarakat multikultural
+        )
+
+    [tanggal_mulai] => 2025-05-22T10:15
+    [tanggal_selesai] => 2025-05-22T11:45
+    [durasi] => 90
+)
+
+
+Materi before filter: Array
+(
+    [0] => Lembaga sosial
+    [1] => Ragam gejala sosial pada masyarakat multikultural
+)
+
+Materi after filter: Array
+(
+    [0] => Lembaga sosial
+    [1] => Ragam gejala sosial pada masyarakat multikultural
+)
+
+Materi JSON: ["Lembaga sosial","Ragam gejala sosial pada masyarakat multikultural"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 107
+    [judul] => ASAT BIOLOGI KELAS X
+    [mata_pelajaran] => Biologi
+    [kelas_id] => 100
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => VIRUS
+            [1] => KEANEKARAGAMAN HAYATI
+            [2] => PEMANASAN GLOBAL
+        )
+
+    [tanggal_mulai] => 2025-05-23T08:00
+    [tanggal_selesai] => 2025-05-23T09:30
+    [durasi] => 90
+)
+
+
+Materi before filter: Array
+(
+    [0] => VIRUS
+    [1] => KEANEKARAGAMAN HAYATI
+    [2] => PEMANASAN GLOBAL
+)
+
+Materi after filter: Array
+(
+    [0] => VIRUS
+    [1] => KEANEKARAGAMAN HAYATI
+    [2] => PEMANASAN GLOBAL
+)
+
+Materi JSON: ["VIRUS","KEANEKARAGAMAN HAYATI","PEMANASAN GLOBAL"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 118
+    [judul] => ASAT BAHASA INDONESIA KLS XI
+    [mata_pelajaran] => Bahasa Indonesia
+    [kelas_id] => 106
+    [deskripsi] => kerjakan dengan memilih jawaban yang benar
+    [materi] => Array
+        (
+            [0] => reviuf fim, cerita
+            [1] => teks pidato
+            [2] => teks ceramah
+            [3] => teks surat lamaran pekerjaan
+        )
+
+    [tanggal_mulai] => 2025-05-21T10:00
+    [tanggal_selesai] => 2025-05-21T12:00
+    [durasi] => 120
+)
+
+
+Materi before filter: Array
+(
+    [0] => reviuf fim, cerita
+    [1] => teks pidato
+    [2] => teks ceramah
+    [3] => teks surat lamaran pekerjaan
+)
+
+Materi after filter: Array
+(
+    [0] => reviuf fim, cerita
+    [1] => teks pidato
+    [2] => teks ceramah
+    [3] => teks surat lamaran pekerjaan
+)
+
+Materi JSON: ["reviuf fim, cerita","teks pidato","teks ceramah","teks surat lamaran pekerjaan"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 102
+    [judul] => ASAT Bahasa Indonesia Kls X
+    [mata_pelajaran] => Bahasa Indonesia
+    [kelas_id] => 105
+    [deskripsi] => 
+    [tanggal_mulai] => 2025-05-21T10:00
+    [tanggal_selesai] => 2025-05-21T12:00
+    [durasi] => 120
+)
+
+
+Materi before filter: Array
+(
+)
+
+Materi after filter: Array
+(
+)
+
+Materi JSON: []
+
+POST Data for edit: Array
+(
+    [ujian_id] => 92
+    [judul] => TEST (jangan masuk cuman test)
+    [mata_pelajaran] => Bahasa Indonesia
+    [kelas_id] => 63
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Simbiosis
+            [1] => Iman kepada Allah SWT
+        )
+
+    [tanggal_mulai] => 2025-05-16T00:00
+    [tanggal_selesai] => 2025-05-17T00:00
+    [durasi] => 1440
+)
+
+
+Materi before filter: Array
+(
+    [0] => Simbiosis
+    [1] => Iman kepada Allah SWT
+)
+
+Materi after filter: Array
+(
+    [0] => Simbiosis
+    [1] => Iman kepada Allah SWT
+)
+
+Materi JSON: ["Simbiosis","Iman kepada Allah SWT"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 123
+    [judul] => ASAT SEJARAH KELAS XI/F
+    [mata_pelajaran] => Sejarah
+    [kelas_id] => 116
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Tirani Matahari Terbit
+            [1] => Indonesia Merdeka
+            [2] => Revolusi Menegakkan Panji – Panji NKRI
+        )
+
+    [tanggal_mulai] => 2025-05-22T08:15
+    [tanggal_selesai] => 2025-05-22T09:45
+    [durasi] => 90
+)
+
+
+Materi before filter: Array
+(
+    [0] => Tirani Matahari Terbit
+    [1] => Indonesia Merdeka
+    [2] => Revolusi Menegakkan Panji – Panji NKRI
+)
+
+Materi after filter: Array
+(
+    [0] => Tirani Matahari Terbit
+    [1] => Indonesia Merdeka
+    [2] => Revolusi Menegakkan Panji – Panji NKRI
+)
+
+Materi JSON: ["Tirani Matahari Terbit","Indonesia Merdeka","Revolusi Menegakkan Panji \u2013 Panji NKRI"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 128
+    [judul] => ASAT BAHASA INDONESIA KELAS 8
+    [mata_pelajaran] => Bahasa Indonesia
+    [kelas_id] => 77
+    [deskripsi] => Evaluasi pembelajaran
+    [materi] => Array
+        (
+            [0] => Materi semester genap
+        )
+
+    [tanggal_mulai] => 2025-05-22T07:00
+    [tanggal_selesai] => 2025-05-22T16:00
+    [durasi] => 540
+)
+
+
+Materi before filter: Array
+(
+    [0] => Materi semester genap
+)
+
+Materi after filter: Array
+(
+    [0] => Materi semester genap
+)
+
+Materi JSON: ["Materi semester genap"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 130
+    [judul] => ASAT BAHASA INGGRIS KELAS 7
+    [mata_pelajaran] => Bahasa Inggris
+    [kelas_id] => 71
+    [deskripsi] => Evaluasi Pembelajaran
+    [materi] => Array
+        (
+            [0] => Materi semester genap
+        )
+
+    [tanggal_mulai] => 2025-05-27T07:00
+    [tanggal_selesai] => 2025-05-27T16:00
+    [durasi] => 540
+)
+
+
+Materi before filter: Array
+(
+    [0] => Materi semester genap
+)
+
+Materi after filter: Array
+(
+    [0] => Materi semester genap
+)
+
+Materi JSON: ["Materi semester genap"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 131
+    [judul] => ASAT PJOK KELAS XI
+    [mata_pelajaran] => PJOK
+    [kelas_id] => 104
+    [deskripsi] => TENIS MEJA\r\nlempar lembing\r\nsenam irama\r\nkebugaran jasmani
+    [materi] => Array
+        (
+            [0] => tenis meja
+            [1] => lempar lembing
+            [2] => senam irama
+            [3] => kebugaran jasmani
+        )
+
+    [tanggal_mulai] => 2025-06-02T08:15
+    [tanggal_selesai] => 2025-06-02T09:45
+    [durasi] => 90
+)
+
+
+Materi before filter: Array
+(
+    [0] => tenis meja
+    [1] => lempar lembing
+    [2] => senam irama
+    [3] => kebugaran jasmani
+)
+
+Materi after filter: Array
+(
+    [0] => tenis meja
+    [1] => lempar lembing
+    [2] => senam irama
+    [3] => kebugaran jasmani
+)
+
+Materi JSON: ["tenis meja","lempar lembing","senam irama","kebugaran jasmani"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 115
+    [judul] => ASAT GEOGRAFI KELAS X
+    [mata_pelajaran] => Geografi
+    [kelas_id] => 89
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Fenomena geosfer dan dampaknya terhadap kehidupan manusia
+        )
+
+    [tanggal_mulai] => 2025-05-21T08:15
+    [tanggal_selesai] => 2025-05-21T09:45
+    [durasi] => 90
+)
+
+
+Materi before filter: Array
+(
+    [0] => Fenomena geosfer dan dampaknya terhadap kehidupan manusia
+)
+
+Materi after filter: Array
+(
+    [0] => Fenomena geosfer dan dampaknya terhadap kehidupan manusia
+)
+
+Materi JSON: ["Fenomena geosfer dan dampaknya terhadap kehidupan manusia"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 88
+    [judul] => ASAT GEOGRAFI KELAS XI
+    [mata_pelajaran] => Geografi
+    [kelas_id] => 91
+    [deskripsi] => Asesmen Sumatif Akhir Tahun Geografi Kelas XI
+    [materi] => Array
+        (
+            [0] => Posisi strategis dan maritim Indonesia
+            [1] => Flora dan Fauna di Indonesia dan dunia
+            [2] => Dinamika Penduduk
+            [3] => Mitigasi Bencana
+        )
+
+    [tanggal_mulai] => 2025-05-21T08:15
+    [tanggal_selesai] => 2025-05-21T09:45
+    [durasi] => 90
+)
+
+
+Materi before filter: Array
+(
+    [0] => Posisi strategis dan maritim Indonesia
+    [1] => Flora dan Fauna di Indonesia dan dunia
+    [2] => Dinamika Penduduk
+    [3] => Mitigasi Bencana
+)
+
+Materi after filter: Array
+(
+    [0] => Posisi strategis dan maritim Indonesia
+    [1] => Flora dan Fauna di Indonesia dan dunia
+    [2] => Dinamika Penduduk
+    [3] => Mitigasi Bencana
+)
+
+Materi JSON: ["Posisi strategis dan maritim Indonesia","Flora dan Fauna di Indonesia dan dunia","Dinamika Penduduk","Mitigasi Bencana"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 105
+    [judul] => ASAT 2025 INFORMATIKA KELAS X
+    [mata_pelajaran] => Informatika
+    [kelas_id] => 76
+    [deskripsi] => Mulailah pekerjaan anda dengan membaca “Basmallah” dan akhiri dengan bacaan “Hamdallah”
+    [materi] => Array
+        (
+            [0] => Analisis data
+            [1] => algoritma dan pemrograman
+            [2] => dampak sosial informatika
+        )
+
+    [tanggal_mulai] => 2025-05-23T10:00
+    [tanggal_selesai] => 2025-05-23T11:30
+    [durasi] => 90
+)
+
+
+Materi before filter: Array
+(
+    [0] => Analisis data
+    [1] => algoritma dan pemrograman
+    [2] => dampak sosial informatika
+)
+
+Materi after filter: Array
+(
+    [0] => Analisis data
+    [1] => algoritma dan pemrograman
+    [2] => dampak sosial informatika
+)
+
+Materi JSON: ["Analisis data","algoritma dan pemrograman","dampak sosial informatika"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 90
+    [judul] => ASAT MATEMATIKA KELAS X - FASE E
+    [mata_pelajaran] => Matematika
+    [kelas_id] => 92
+    [deskripsi] => Pilihlah jawaban di bawah ini dengan benar
+    [materi] => Array
+        (
+            [0] => Sistem Persamaan Linier Tiga Variabel
+            [1] => Sistem Pertidaksamaan Dua Variabel
+            [2] => Barisan dan Deret
+            [3] => Penyajian dan Pengolahan Data Statistika
+            [4] => Peluang Kejadian
+        )
+
+    [tanggal_mulai] => 2025-05-28T08:15
+    [tanggal_selesai] => 2025-05-28T09:55
+    [durasi] => 100
+)
+
+
+Materi before filter: Array
+(
+    [0] => Sistem Persamaan Linier Tiga Variabel
+    [1] => Sistem Pertidaksamaan Dua Variabel
+    [2] => Barisan dan Deret
+    [3] => Penyajian dan Pengolahan Data Statistika
+    [4] => Peluang Kejadian
+)
+
+Materi after filter: Array
+(
+    [0] => Sistem Persamaan Linier Tiga Variabel
+    [1] => Sistem Pertidaksamaan Dua Variabel
+    [2] => Barisan dan Deret
+    [3] => Penyajian dan Pengolahan Data Statistika
+    [4] => Peluang Kejadian
+)
+
+Materi JSON: ["Sistem Persamaan Linier Tiga Variabel","Sistem Pertidaksamaan Dua Variabel","Barisan dan Deret","Penyajian dan Pengolahan Data Statistika","Peluang Kejadian"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 90
+    [judul] => ASAT MATEMATIKA KELAS X - FASE E
+    [mata_pelajaran] => Matematika
+    [kelas_id] => 92
+    [deskripsi] => Pilihlah jawaban di bawah ini dengan benar
+    [materi] => Array
+        (
+            [0] => Sistem Persamaan Linier Tiga Variabel
+            [1] => Sistem Pertidaksamaan Dua Variabel
+            [2] => Barisan dan Deret
+            [3] => Penyajian dan Pengolahan Data Statistika
+            [4] => Peluang Kejadian
+        )
+
+    [tanggal_mulai] => 2025-05-28T08:15
+    [tanggal_selesai] => 2025-05-28T09:45
+    [durasi] => 90
+)
+
+
+Materi before filter: Array
+(
+    [0] => Sistem Persamaan Linier Tiga Variabel
+    [1] => Sistem Pertidaksamaan Dua Variabel
+    [2] => Barisan dan Deret
+    [3] => Penyajian dan Pengolahan Data Statistika
+    [4] => Peluang Kejadian
+)
+
+Materi after filter: Array
+(
+    [0] => Sistem Persamaan Linier Tiga Variabel
+    [1] => Sistem Pertidaksamaan Dua Variabel
+    [2] => Barisan dan Deret
+    [3] => Penyajian dan Pengolahan Data Statistika
+    [4] => Peluang Kejadian
+)
+
+Materi JSON: ["Sistem Persamaan Linier Tiga Variabel","Sistem Pertidaksamaan Dua Variabel","Barisan dan Deret","Penyajian dan Pengolahan Data Statistika","Peluang Kejadian"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 88
+    [judul] => ASAT GEOGRAFI KELAS XI
+    [mata_pelajaran] => Geografi
+    [kelas_id] => 91
+    [deskripsi] => Asesmen Sumatif Akhir Tahun Geografi Kelas XI
+    [materi] => Array
+        (
+            [0] => Posisi strategis dan maritim Indonesia
+            [1] => Flora dan Fauna di Indonesia dan dunia
+            [2] => Dinamika Penduduk
+            [3] => Mitigasi Bencana
+        )
+
+    [tanggal_mulai] => 2025-05-21T08:15
+    [tanggal_selesai] => 2025-05-21T09:45
+    [durasi] => 90
+)
+
+
+Materi before filter: Array
+(
+    [0] => Posisi strategis dan maritim Indonesia
+    [1] => Flora dan Fauna di Indonesia dan dunia
+    [2] => Dinamika Penduduk
+    [3] => Mitigasi Bencana
+)
+
+Materi after filter: Array
+(
+    [0] => Posisi strategis dan maritim Indonesia
+    [1] => Flora dan Fauna di Indonesia dan dunia
+    [2] => Dinamika Penduduk
+    [3] => Mitigasi Bencana
+)
+
+Materi JSON: ["Posisi strategis dan maritim Indonesia","Flora dan Fauna di Indonesia dan dunia","Dinamika Penduduk","Mitigasi Bencana"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 132
+    [judul] => ASATA TIK
+    [mata_pelajaran] => TIK
+    [kelas_id] => 121
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Pengenalan Internet
+            [1] => Microsoft Pengolah Kata
+            [2] => Microsoft Pengolahan Spreadsheet
+        )
+
+    [tanggal_mulai] => 2025-05-22T09:30
+    [tanggal_selesai] => 2025-05-22T15:30
+    [durasi] => 360
+)
+
+
+Materi before filter: Array
+(
+    [0] => Pengenalan Internet
+    [1] => Microsoft Pengolah Kata
+    [2] => Microsoft Pengolahan Spreadsheet
+)
+
+Materi after filter: Array
+(
+    [0] => Pengenalan Internet
+    [1] => Microsoft Pengolah Kata
+    [2] => Microsoft Pengolahan Spreadsheet
+)
+
+Materi JSON: ["Pengenalan Internet","Microsoft Pengolah Kata","Microsoft Pengolahan Spreadsheet"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 133
+    [judul] => ASATA TIK KELAS 8
+    [mata_pelajaran] => TIK
+    [kelas_id] => 122
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Pengenalan Internet
+            [1] => Microsoft Word
+            [2] => Micrososft Excel
+        )
+
+    [tanggal_mulai] => 2025-05-22T09:30
+    [tanggal_selesai] => 2025-05-22T15:30
+    [durasi] => 360
+)
+
+
+Materi before filter: Array
+(
+    [0] => Pengenalan Internet
+    [1] => Microsoft Word
+    [2] => Micrososft Excel
+)
+
+Materi after filter: Array
+(
+    [0] => Pengenalan Internet
+    [1] => Microsoft Word
+    [2] => Micrososft Excel
+)
+
+Materi JSON: ["Pengenalan Internet","Microsoft Word","Micrososft Excel"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 141
+    [judul] => ASATA KELAS 7
+    [mata_pelajaran] => IPA
+    [kelas_id] => 127
+    [deskripsi] => Evaluasi Akhir Semester
+    [tanggal_mulai] => 2025-05-22T12:00
+    [tanggal_selesai] => 2025-05-22T14:00
+    [durasi] => 120
+)
+
+
+Materi before filter: Array
+(
+)
+
+Materi after filter: Array
+(
+)
+
+Materi JSON: []
+
+POST Data for edit: Array
+(
+    [ujian_id] => 140
+    [judul] => ASATA KELAS 8
+    [mata_pelajaran] => IPA
+    [kelas_id] => 128
+    [deskripsi] => Evaluasi Akhir Semester
+    [tanggal_mulai] => 2025-05-22T07:00
+    [tanggal_selesai] => 2025-05-22T09:00
+    [durasi] => 120
+)
+
+
+Materi before filter: Array
+(
+)
+
+Materi after filter: Array
+(
+)
+
+Materi JSON: []
+
+POST Data for edit: Array
+(
+    [ujian_id] => 133
+    [judul] => ASATA TIK KELAS 8
+    [mata_pelajaran] => TIK
+    [kelas_id] => 122
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Pengenalan Internet
+            [1] => Microsoft Word
+            [2] => Micrososft Excel
+        )
+
+    [tanggal_mulai] => 2025-05-22T08:00
+    [tanggal_selesai] => 2025-05-22T15:30
+    [durasi] => 450
+)
+
+
+Materi before filter: Array
+(
+    [0] => Pengenalan Internet
+    [1] => Microsoft Word
+    [2] => Micrososft Excel
+)
+
+Materi after filter: Array
+(
+    [0] => Pengenalan Internet
+    [1] => Microsoft Word
+    [2] => Micrososft Excel
+)
+
+Materi JSON: ["Pengenalan Internet","Microsoft Word","Micrososft Excel"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 132
+    [judul] => ASATA TIK
+    [mata_pelajaran] => TIK
+    [kelas_id] => 121
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Pengenalan Internet
+            [1] => Microsoft Pengolah Kata
+            [2] => Microsoft Pengolahan Spreadsheet
+        )
+
+    [tanggal_mulai] => 2025-05-22T12:05
+    [tanggal_selesai] => 2025-05-22T15:30
+    [durasi] => 205
+)
+
+
+Materi before filter: Array
+(
+    [0] => Pengenalan Internet
+    [1] => Microsoft Pengolah Kata
+    [2] => Microsoft Pengolahan Spreadsheet
+)
+
+Materi after filter: Array
+(
+    [0] => Pengenalan Internet
+    [1] => Microsoft Pengolah Kata
+    [2] => Microsoft Pengolahan Spreadsheet
+)
+
+Materi JSON: ["Pengenalan Internet","Microsoft Pengolah Kata","Microsoft Pengolahan Spreadsheet"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 128
+    [judul] => ASAT BAHASA INDONESIA KELAS 8
+    [mata_pelajaran] => Bahasa Indonesia
+    [kelas_id] => 77
+    [deskripsi] => Evaluasi pembelajaran
+    [materi] => Array
+        (
+            [0] => Materi semester genap
+        )
+
+    [tanggal_mulai] => 2025-05-22T10:30
+    [tanggal_selesai] => 2025-05-22T11:30
+    [durasi] => 60
+)
+
+
+Materi before filter: Array
+(
+    [0] => Materi semester genap
+)
+
+Materi after filter: Array
+(
+    [0] => Materi semester genap
+)
+
+Materi JSON: ["Materi semester genap"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 127
+    [judul] => ASAT BAHASA INDONESIA KELAS 7
+    [mata_pelajaran] => Bahasa Indonesia
+    [kelas_id] => 75
+    [deskripsi] => Evaluasi pembelajaran 
+    [materi] => Array
+        (
+            [0] => Materi semester genap
+        )
+
+    [tanggal_mulai] => 2025-05-22T14:00
+    [tanggal_selesai] => 2025-05-22T14:50
+    [durasi] => 50
+)
+
+
+Materi before filter: Array
+(
+    [0] => Materi semester genap
+)
+
+Materi after filter: Array
+(
+    [0] => Materi semester genap
+)
+
+Materi JSON: ["Materi semester genap"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 129
+    [judul] => ASAT BAHASA INGGRIS KELAS 8
+    [mata_pelajaran] => Bahasa Inggris
+    [kelas_id] => 73
+    [deskripsi] => Evaluasi pembelajaran
+    [materi] => Array
+        (
+            [0] => Materi semester genap
+        )
+
+    [tanggal_mulai] => 2025-05-27T10:30
+    [tanggal_selesai] => 2025-05-27T11:30
+    [durasi] => 60
+)
+
+
+Materi before filter: Array
+(
+    [0] => Materi semester genap
+)
+
+Materi after filter: Array
+(
+    [0] => Materi semester genap
+)
+
+Materi JSON: ["Materi semester genap"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 130
+    [judul] => ASAT BAHASA INGGRIS KELAS 7
+    [mata_pelajaran] => Bahasa Inggris
+    [kelas_id] => 71
+    [deskripsi] => Evaluasi Pembelajaran
+    [materi] => Array
+        (
+            [0] => Materi semester genap
+        )
+
+    [tanggal_mulai] => 2025-05-27T14:00
+    [tanggal_selesai] => 2025-05-27T14:50
+    [durasi] => 50
+)
+
+
+Materi before filter: Array
+(
+    [0] => Materi semester genap
+)
+
+Materi after filter: Array
+(
+    [0] => Materi semester genap
+)
+
+Materi JSON: ["Materi semester genap"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 130
+    [judul] => ASAT BAHASA INGGRIS KELAS 7
+    [mata_pelajaran] => Bahasa Inggris
+    [kelas_id] => 71
+    [deskripsi] => Evaluasi Pembelajaran
+    [materi] => Array
+        (
+            [0] => Materi semester genap
+        )
+
+    [tanggal_mulai] => 2025-05-27T14:00
+    [tanggal_selesai] => 2025-05-27T14:50
+    [durasi] => 50
+)
+
+
+Materi before filter: Array
+(
+    [0] => Materi semester genap
+)
+
+Materi after filter: Array
+(
+    [0] => Materi semester genap
+)
+
+Materi JSON: ["Materi semester genap"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 133
+    [judul] => ASATA TIK KELAS 8
+    [mata_pelajaran] => TIK
+    [kelas_id] => 122
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Pengenalan Internet
+            [1] => Microsoft Word
+            [2] => Micrososft Excel
+        )
+
+    [tanggal_mulai] => 2025-05-22T09:30
+    [tanggal_selesai] => 2025-05-22T15:30
+    [durasi] => 360
+)
+
+
+Materi before filter: Array
+(
+    [0] => Pengenalan Internet
+    [1] => Microsoft Word
+    [2] => Micrososft Excel
+)
+
+Materi after filter: Array
+(
+    [0] => Pengenalan Internet
+    [1] => Microsoft Word
+    [2] => Micrososft Excel
+)
+
+Materi JSON: ["Pengenalan Internet","Microsoft Word","Micrososft Excel"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 132
+    [judul] => ASATA TIK
+    [mata_pelajaran] => TIK
+    [kelas_id] => 121
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Pengenalan Internet
+            [1] => Microsoft Pengolah Kata
+            [2] => Microsoft Pengolahan Spreadsheet
+        )
+
+    [tanggal_mulai] => 2025-05-22T13:10
+    [tanggal_selesai] => 2025-05-22T15:30
+    [durasi] => 140
+)
+
+
+Materi before filter: Array
+(
+    [0] => Pengenalan Internet
+    [1] => Microsoft Pengolah Kata
+    [2] => Microsoft Pengolahan Spreadsheet
+)
+
+Materi after filter: Array
+(
+    [0] => Pengenalan Internet
+    [1] => Microsoft Pengolah Kata
+    [2] => Microsoft Pengolahan Spreadsheet
+)
+
+Materi JSON: ["Pengenalan Internet","Microsoft Pengolah Kata","Microsoft Pengolahan Spreadsheet"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 141
+    [judul] => ASATA KELAS 7
+    [mata_pelajaran] => IPA
+    [kelas_id] => 127
+    [deskripsi] => Evaluasi Akhir Semester
+    [tanggal_mulai] => 2025-05-22T08:00
+    [tanggal_selesai] => 2025-05-22T16:00
+    [durasi] => 480
+)
+
+
+Materi before filter: Array
+(
+)
+
+Materi after filter: Array
+(
+)
+
+Materi JSON: []
+
+POST Data for edit: Array
+(
+    [ujian_id] => 132
+    [judul] => ASATA TIK
+    [mata_pelajaran] => TIK
+    [kelas_id] => 121
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Pengenalan Internet
+            [1] => Microsoft Pengolah Kata
+            [2] => Microsoft Pengolahan Spreadsheet
+        )
+
+    [tanggal_mulai] => 2025-05-22T09:30
+    [tanggal_selesai] => 2025-05-22T15:30
+    [durasi] => 360
+)
+
+
+Materi before filter: Array
+(
+    [0] => Pengenalan Internet
+    [1] => Microsoft Pengolah Kata
+    [2] => Microsoft Pengolahan Spreadsheet
+)
+
+Materi after filter: Array
+(
+    [0] => Pengenalan Internet
+    [1] => Microsoft Pengolah Kata
+    [2] => Microsoft Pengolahan Spreadsheet
+)
+
+Materi JSON: ["Pengenalan Internet","Microsoft Pengolah Kata","Microsoft Pengolahan Spreadsheet"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 140
+    [judul] => ASATA KELAS 8
+    [mata_pelajaran] => IPA
+    [kelas_id] => 128
+    [deskripsi] => Evaluasi Akhir Semester
+    [tanggal_mulai] => 2025-05-22T07:00
+    [tanggal_selesai] => 2025-05-22T16:00
+    [durasi] => 540
+)
+
+
+Materi before filter: Array
+(
+)
+
+Materi after filter: Array
+(
+)
+
+Materi JSON: []
+
+POST Data for edit: Array
+(
+    [ujian_id] => 141
+    [judul] => ASATA KELAS 7
+    [mata_pelajaran] => IPA
+    [kelas_id] => 127
+    [deskripsi] => Evaluasi Akhir Semester
+    [tanggal_mulai] => 2025-05-22T07:00
+    [tanggal_selesai] => 2025-05-22T16:00
+    [durasi] => 540
+)
+
+
+Materi before filter: Array
+(
+)
+
+Materi after filter: Array
+(
+)
+
+Materi JSON: []
+
+POST Data for edit: Array
+(
+    [ujian_id] => 141
+    [judul] => ASATA KELAS 7
+    [mata_pelajaran] => IPA
+    [kelas_id] => 127
+    [deskripsi] => Evaluasi Akhir Semester
+    [tanggal_mulai] => 2025-05-22T07:00
+    [tanggal_selesai] => 2025-05-22T16:00
+    [durasi] => 540
+)
+
+
+Materi before filter: Array
+(
+)
+
+Materi after filter: Array
+(
+)
+
+Materi JSON: []
+
+POST Data for edit: Array
+(
+    [ujian_id] => 128
+    [judul] => ASAT BAHASA INDONESIA KELAS 8
+    [mata_pelajaran] => Bahasa Indonesia
+    [kelas_id] => 77
+    [deskripsi] => Evaluasi pembelajaran
+    [materi] => Array
+        (
+            [0] => Materi semester genap
+        )
+
+    [tanggal_mulai] => 2025-05-22T07:30
+    [tanggal_selesai] => 2025-05-22T15:30
+    [durasi] => 480
+)
+
+
+Materi before filter: Array
+(
+    [0] => Materi semester genap
+)
+
+Materi after filter: Array
+(
+    [0] => Materi semester genap
+)
+
+Materi JSON: ["Materi semester genap"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 127
+    [judul] => ASAT BAHASA INDONESIA KELAS 7
+    [mata_pelajaran] => Bahasa Indonesia
+    [kelas_id] => 75
+    [deskripsi] => Evaluasi pembelajaran
+    [materi] => Array
+        (
+            [0] => Materi semester genap
+        )
+
+    [tanggal_mulai] => 2025-05-22T07:00
+    [tanggal_selesai] => 2025-05-22T15:30
+    [durasi] => 510
+)
+
+
+Materi before filter: Array
+(
+    [0] => Materi semester genap
+)
+
+Materi after filter: Array
+(
+    [0] => Materi semester genap
+)
+
+Materi JSON: ["Materi semester genap"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 88
+    [judul] => ASAT GEOGRAFI KELAS XI
+    [mata_pelajaran] => Geografi
+    [kelas_id] => 91
+    [deskripsi] => Asesmen Sumatif Akhir Tahun Geografi Kelas XI
+    [materi] => Array
+        (
+            [0] => Posisi strategis dan maritim Indonesia
+            [1] => Flora dan Fauna di Indonesia dan dunia
+            [2] => Dinamika Penduduk
+            [3] => Mitigasi Bencana
+        )
+
+    [tanggal_mulai] => 2025-05-22T12:30
+    [tanggal_selesai] => 2025-05-22T14:00
+    [durasi] => 90
+)
+
+
+Materi before filter: Array
+(
+    [0] => Posisi strategis dan maritim Indonesia
+    [1] => Flora dan Fauna di Indonesia dan dunia
+    [2] => Dinamika Penduduk
+    [3] => Mitigasi Bencana
+)
+
+Materi after filter: Array
+(
+    [0] => Posisi strategis dan maritim Indonesia
+    [1] => Flora dan Fauna di Indonesia dan dunia
+    [2] => Dinamika Penduduk
+    [3] => Mitigasi Bencana
+)
+
+Materi JSON: ["Posisi strategis dan maritim Indonesia","Flora dan Fauna di Indonesia dan dunia","Dinamika Penduduk","Mitigasi Bencana"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 118
+    [judul] => ASAT BAHASA INDONESIA KLS XI
+    [mata_pelajaran] => Bahasa Indonesia
+    [kelas_id] => 106
+    [deskripsi] => kerjakan dengan memilih jawaban yang benar
+    [materi] => Array
+        (
+            [0] => reviuf fim, cerita
+            [1] => teks pidato
+            [2] => teks ceramah
+            [3] => teks surat lamaran pekerjaan
+        )
+
+    [tanggal_mulai] => 2025-05-23T12:50
+    [tanggal_selesai] => 2025-05-23T14:20
+    [durasi] => 90
+)
+
+
+Materi before filter: Array
+(
+    [0] => reviuf fim, cerita
+    [1] => teks pidato
+    [2] => teks ceramah
+    [3] => teks surat lamaran pekerjaan
+)
+
+Materi after filter: Array
+(
+    [0] => reviuf fim, cerita
+    [1] => teks pidato
+    [2] => teks ceramah
+    [3] => teks surat lamaran pekerjaan
+)
+
+Materi JSON: ["reviuf fim, cerita","teks pidato","teks ceramah","teks surat lamaran pekerjaan"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 133
+    [judul] => ASATA TIK KELAS 8
+    [mata_pelajaran] => TIK
+    [kelas_id] => 122
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Pengenalan Internet
+            [1] => Microsoft Word
+            [2] => Micrososft Excel
+        )
+
+    [tanggal_mulai] => 2025-05-22T11:00
+    [tanggal_selesai] => 2025-05-22T15:30
+    [durasi] => 270
+)
+
+
+Materi before filter: Array
+(
+    [0] => Pengenalan Internet
+    [1] => Microsoft Word
+    [2] => Micrososft Excel
+)
+
+Materi after filter: Array
+(
+    [0] => Pengenalan Internet
+    [1] => Microsoft Word
+    [2] => Micrososft Excel
+)
+
+Materi JSON: ["Pengenalan Internet","Microsoft Word","Micrososft Excel"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 123
+    [judul] => ASAT SEJARAH KELAS XI/F
+    [mata_pelajaran] => Sejarah
+    [kelas_id] => 116
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Tirani Matahari Terbit
+            [1] => Indonesia Merdeka
+            [2] => Revolusi Menegakkan Panji – Panji NKRI
+        )
+
+    [tanggal_mulai] => 2025-05-22T12:30
+    [tanggal_selesai] => 2025-05-22T14:00
+    [durasi] => 90
+)
+
+
+Materi before filter: Array
+(
+    [0] => Tirani Matahari Terbit
+    [1] => Indonesia Merdeka
+    [2] => Revolusi Menegakkan Panji – Panji NKRI
+)
+
+Materi after filter: Array
+(
+    [0] => Tirani Matahari Terbit
+    [1] => Indonesia Merdeka
+    [2] => Revolusi Menegakkan Panji – Panji NKRI
+)
+
+Materi JSON: ["Tirani Matahari Terbit","Indonesia Merdeka","Revolusi Menegakkan Panji \u2013 Panji NKRI"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 133
+    [judul] => ASATA TIK KELAS 8
+    [mata_pelajaran] => TIK
+    [kelas_id] => 122
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Pengenalan Internet
+            [1] => Microsoft Word
+            [2] => Micrososft Excel
+        )
+
+    [tanggal_mulai] => 2025-05-22T11:00
+    [tanggal_selesai] => 2025-05-22T16:00
+    [durasi] => 300
+)
+
+
+Materi before filter: Array
+(
+    [0] => Pengenalan Internet
+    [1] => Microsoft Word
+    [2] => Micrososft Excel
+)
+
+Materi after filter: Array
+(
+    [0] => Pengenalan Internet
+    [1] => Microsoft Word
+    [2] => Micrososft Excel
+)
+
+Materi JSON: ["Pengenalan Internet","Microsoft Word","Micrososft Excel"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 132
+    [judul] => ASATA TIK
+    [mata_pelajaran] => TIK
+    [kelas_id] => 121
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Pengenalan Internet
+            [1] => Microsoft Pengolah Kata
+            [2] => Microsoft Pengolahan Spreadsheet
+        )
+
+    [tanggal_mulai] => 2025-05-22T09:30
+    [tanggal_selesai] => 2025-05-22T15:30
+    [durasi] => 360
+)
+
+
+Materi before filter: Array
+(
+    [0] => Pengenalan Internet
+    [1] => Microsoft Pengolah Kata
+    [2] => Microsoft Pengolahan Spreadsheet
+)
+
+Materi after filter: Array
+(
+    [0] => Pengenalan Internet
+    [1] => Microsoft Pengolah Kata
+    [2] => Microsoft Pengolahan Spreadsheet
+)
+
+Materi JSON: ["Pengenalan Internet","Microsoft Pengolah Kata","Microsoft Pengolahan Spreadsheet"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 132
+    [judul] => ASATA TIK
+    [mata_pelajaran] => TIK
+    [kelas_id] => 121
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Pengenalan Internet
+            [1] => Microsoft Pengolah Kata
+            [2] => Microsoft Pengolahan Spreadsheet
+        )
+
+    [tanggal_mulai] => 2025-05-22T09:30
+    [tanggal_selesai] => 2025-05-22T16:00
+    [durasi] => 390
+)
+
+
+Materi before filter: Array
+(
+    [0] => Pengenalan Internet
+    [1] => Microsoft Pengolah Kata
+    [2] => Microsoft Pengolahan Spreadsheet
+)
+
+Materi after filter: Array
+(
+    [0] => Pengenalan Internet
+    [1] => Microsoft Pengolah Kata
+    [2] => Microsoft Pengolahan Spreadsheet
+)
+
+Materi JSON: ["Pengenalan Internet","Microsoft Pengolah Kata","Microsoft Pengolahan Spreadsheet"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 132
+    [judul] => ASATA TIK
+    [mata_pelajaran] => TIK
+    [kelas_id] => 121
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Pengenalan Internet
+            [1] => Microsoft Pengolah Kata
+            [2] => Microsoft Pengolahan Spreadsheet
+        )
+
+    [tanggal_mulai] => 2025-05-22T09:30
+    [tanggal_selesai] => 2025-05-22T16:00
+    [durasi] => 390
+)
+
+
+Materi before filter: Array
+(
+    [0] => Pengenalan Internet
+    [1] => Microsoft Pengolah Kata
+    [2] => Microsoft Pengolahan Spreadsheet
+)
+
+Materi after filter: Array
+(
+    [0] => Pengenalan Internet
+    [1] => Microsoft Pengolah Kata
+    [2] => Microsoft Pengolahan Spreadsheet
+)
+
+Materi JSON: ["Pengenalan Internet","Microsoft Pengolah Kata","Microsoft Pengolahan Spreadsheet"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 144
+    [judul] => ASATA PJOK KELAS 8
+    [mata_pelajaran] => PJOK
+    [kelas_id] => 130
+    [deskripsi] => Evaluasi Akhir Semester
+    [tanggal_mulai] => 2025-05-27T07:00
+    [tanggal_selesai] => 2025-05-27T15:00
+    [durasi] => 480
+)
+
+
+Materi before filter: Array
+(
+)
+
+Materi after filter: Array
+(
+)
+
+Materi JSON: []
+
+POST Data for edit: Array
+(
+    [ujian_id] => 144
+    [judul] => ASATA PJOK KELAS 8
+    [mata_pelajaran] => PJOK
+    [kelas_id] => 130
+    [deskripsi] => Evaluasi Akhir Semester
+    [tanggal_mulai] => 2025-05-27T07:00
+    [tanggal_selesai] => 2025-05-27T15:00
+    [durasi] => 480
+)
+
+
+Materi before filter: Array
+(
+)
+
+Materi after filter: Array
+(
+)
+
+Materi JSON: []
+
+POST Data for edit: Array
+(
+    [ujian_id] => 88
+    [judul] => ASAT GEOGRAFI KELAS XI
+    [mata_pelajaran] => Geografi
+    [kelas_id] => 91
+    [deskripsi] => Asesmen Sumatif Akhir Tahun Geografi Kelas XI
+    [materi] => Array
+        (
+            [0] => Posisi strategis dan maritim Indonesia
+            [1] => Flora dan Fauna di Indonesia dan dunia
+            [2] => Dinamika Penduduk
+            [3] => Mitigasi Bencana
+        )
+
+    [tanggal_mulai] => 2025-05-22T12:10
+    [tanggal_selesai] => 2025-05-22T14:00
+    [durasi] => 110
+)
+
+
+Materi before filter: Array
+(
+    [0] => Posisi strategis dan maritim Indonesia
+    [1] => Flora dan Fauna di Indonesia dan dunia
+    [2] => Dinamika Penduduk
+    [3] => Mitigasi Bencana
+)
+
+Materi after filter: Array
+(
+    [0] => Posisi strategis dan maritim Indonesia
+    [1] => Flora dan Fauna di Indonesia dan dunia
+    [2] => Dinamika Penduduk
+    [3] => Mitigasi Bencana
+)
+
+Materi JSON: ["Posisi strategis dan maritim Indonesia","Flora dan Fauna di Indonesia dan dunia","Dinamika Penduduk","Mitigasi Bencana"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 123
+    [judul] => ASAT SEJARAH KELAS XI/F
+    [mata_pelajaran] => Sejarah
+    [kelas_id] => 116
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Tirani Matahari Terbit
+            [1] => Indonesia Merdeka
+            [2] => Revolusi Menegakkan Panji – Panji NKRI
+        )
+
+    [tanggal_mulai] => 2025-05-22T12:11
+    [tanggal_selesai] => 2025-05-22T14:00
+    [durasi] => 109
+)
+
+
+Materi before filter: Array
+(
+    [0] => Tirani Matahari Terbit
+    [1] => Indonesia Merdeka
+    [2] => Revolusi Menegakkan Panji – Panji NKRI
+)
+
+Materi after filter: Array
+(
+    [0] => Tirani Matahari Terbit
+    [1] => Indonesia Merdeka
+    [2] => Revolusi Menegakkan Panji – Panji NKRI
+)
+
+Materi JSON: ["Tirani Matahari Terbit","Indonesia Merdeka","Revolusi Menegakkan Panji \u2013 Panji NKRI"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 118
+    [judul] => ASAT BAHASA INDONESIA KLS XI
+    [mata_pelajaran] => Bahasa Indonesia
+    [kelas_id] => 106
+    [deskripsi] => kerjakan dengan memilih jawaban yang benar
+    [materi] => Array
+        (
+            [0] => reviuf fim, cerita
+            [1] => teks pidato
+            [2] => teks ceramah
+            [3] => teks surat lamaran pekerjaan
+        )
+
+    [tanggal_mulai] => 2025-05-22T12:21
+    [tanggal_selesai] => 2025-05-22T14:00
+    [durasi] => 99
+)
+
+
+Materi before filter: Array
+(
+    [0] => reviuf fim, cerita
+    [1] => teks pidato
+    [2] => teks ceramah
+    [3] => teks surat lamaran pekerjaan
+)
+
+Materi after filter: Array
+(
+    [0] => reviuf fim, cerita
+    [1] => teks pidato
+    [2] => teks ceramah
+    [3] => teks surat lamaran pekerjaan
+)
+
+Materi JSON: ["reviuf fim, cerita","teks pidato","teks ceramah","teks surat lamaran pekerjaan"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 137
+    [judul] => Test (ini hanya test jangan masuk)
+    [mata_pelajaran] => Bahasa Indonesia
+    [kelas_id] => 63
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Teks Prosedur
+            [1] => Teks Eksposisi
+            [2] => Cerpen
+        )
+
+    [tanggal_mulai] => 2025-05-22T00:00
+    [tanggal_selesai] => 2025-05-24T00:01
+    [durasi] => 2881
+)
+
+
+Materi before filter: Array
+(
+    [0] => Teks Prosedur
+    [1] => Teks Eksposisi
+    [2] => Cerpen
+)
+
+Materi after filter: Array
+(
+    [0] => Teks Prosedur
+    [1] => Teks Eksposisi
+    [2] => Cerpen
+)
+
+Materi JSON: ["Teks Prosedur","Teks Eksposisi","Cerpen"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 134
+    [judul] => ASATA PPKN KELAS 7
+    [mata_pelajaran] => PPkn
+    [kelas_id] => 124
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Keberagaman dalam Bingkai Bhinneka Tunggal Ika
+            [1] => Pelestarian Budaya Lokal
+            [2] => Wilayah Negara Kesatuan Republik Indonesia
+        )
+
+    [tanggal_mulai] => 2025-05-23T08:00
+    [tanggal_selesai] => 2025-05-23T16:00
+    [durasi] => 480
+)
+
+
+Materi before filter: Array
+(
+    [0] => Keberagaman dalam Bingkai Bhinneka Tunggal Ika
+    [1] => Pelestarian Budaya Lokal
+    [2] => Wilayah Negara Kesatuan Republik Indonesia
+)
+
+Materi after filter: Array
+(
+    [0] => Keberagaman dalam Bingkai Bhinneka Tunggal Ika
+    [1] => Pelestarian Budaya Lokal
+    [2] => Wilayah Negara Kesatuan Republik Indonesia
+)
+
+Materi JSON: ["Keberagaman dalam Bingkai Bhinneka Tunggal Ika","Pelestarian Budaya Lokal","Wilayah Negara Kesatuan Republik Indonesia"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 135
+    [judul] => ASATA PPKN KELAS 8
+    [mata_pelajaran] => PPkn
+    [kelas_id] => 125
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Semangat Kebangkitan Nasional Tahun 1908
+            [1] => Sumpah Pemuda dalam Bingkai Bhinneka Tunggal Ika
+            [2] => Memperkuat Komitmen Kebangsaan
+        )
+
+    [tanggal_mulai] => 2025-05-23T08:00
+    [tanggal_selesai] => 2025-05-23T16:00
+    [durasi] => 480
+)
+
+
+Materi before filter: Array
+(
+    [0] => Semangat Kebangkitan Nasional Tahun 1908
+    [1] => Sumpah Pemuda dalam Bingkai Bhinneka Tunggal Ika
+    [2] => Memperkuat Komitmen Kebangsaan
+)
+
+Materi after filter: Array
+(
+    [0] => Semangat Kebangkitan Nasional Tahun 1908
+    [1] => Sumpah Pemuda dalam Bingkai Bhinneka Tunggal Ika
+    [2] => Memperkuat Komitmen Kebangsaan
+)
+
+Materi JSON: ["Semangat Kebangkitan Nasional Tahun 1908","Sumpah Pemuda dalam Bingkai Bhinneka Tunggal Ika","Memperkuat Komitmen Kebangsaan"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 137
+    [judul] => Test (ini adalah test untuk dev, dilarang masuk)
+    [mata_pelajaran] => Bahasa Indonesia
+    [kelas_id] => 63
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Teks Prosedur
+            [1] => Teks Eksposisi
+            [2] => Cerpen
+        )
+
+    [tanggal_mulai] => 2025-05-22T00:00
+    [tanggal_selesai] => 2025-05-24T00:01
+    [durasi] => 2881
+)
+
+
+Materi before filter: Array
+(
+    [0] => Teks Prosedur
+    [1] => Teks Eksposisi
+    [2] => Cerpen
+)
+
+Materi after filter: Array
+(
+    [0] => Teks Prosedur
+    [1] => Teks Eksposisi
+    [2] => Cerpen
+)
+
+Materi JSON: ["Teks Prosedur","Teks Eksposisi","Cerpen"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 146
+    [judul] => ASATA Seni budaya kelas VIII
+    [mata_pelajaran] => Seni Budaya
+    [kelas_id] => 132
+    [deskripsi] => seni rupa
+    [materi] => Array
+        (
+            [0] => teknik vokal bernyanyi,jenis-jenis alat musik,alat musik
+        )
+
+    [tanggal_mulai] => 2025-05-23T07:30
+    [tanggal_selesai] => 2025-05-23T16:00
+    [durasi] => 510
+)
+
+
+Materi before filter: Array
+(
+    [0] => teknik vokal bernyanyi,jenis-jenis alat musik,alat musik
+)
+
+Materi after filter: Array
+(
+    [0] => teknik vokal bernyanyi,jenis-jenis alat musik,alat musik
+)
+
+Materi JSON: ["teknik vokal bernyanyi,jenis-jenis alat musik,alat musik"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 96
+    [judul] => ASAT KIMIA KELAS X
+    [mata_pelajaran] => Kimia
+    [kelas_id] => 99
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => STRUKTUR ATOM DAN SISTEM PERIODIK UNSUR
+            [1] => IKATAN ION DAN KOVALEN
+            [2] => LARUTAN ELEKTROLIT DAN NON ELEKTROLIT
+        )
+
+    [tanggal_mulai] => 2025-05-23T12:30
+    [tanggal_selesai] => 2025-05-23T14:00
+    [durasi] => 90
+)
+
+
+Materi before filter: Array
+(
+    [0] => STRUKTUR ATOM DAN SISTEM PERIODIK UNSUR
+    [1] => IKATAN ION DAN KOVALEN
+    [2] => LARUTAN ELEKTROLIT DAN NON ELEKTROLIT
+)
+
+Materi after filter: Array
+(
+    [0] => STRUKTUR ATOM DAN SISTEM PERIODIK UNSUR
+    [1] => IKATAN ION DAN KOVALEN
+    [2] => LARUTAN ELEKTROLIT DAN NON ELEKTROLIT
+)
+
+Materi JSON: ["STRUKTUR ATOM DAN SISTEM PERIODIK UNSUR","IKATAN ION DAN KOVALEN","LARUTAN ELEKTROLIT DAN NON ELEKTROLIT"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 108
+    [judul] => ASAT 2025 INFORMATIKA KELAS XI
+    [mata_pelajaran] => Informatika
+    [kelas_id] => 80
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => PEMROGRAMAN MODULAR
+            [1] => DAMPAK SOSIAL INFORMATIKA
+            [2] => INFORMATIKA SEKARANG DAN MASA DEPAN
+        )
+
+    [tanggal_mulai] => 2025-05-23T10:00
+    [tanggal_selesai] => 2025-05-23T12:00
+    [durasi] => 120
+)
+
+
+Materi before filter: Array
+(
+    [0] => PEMROGRAMAN MODULAR
+    [1] => DAMPAK SOSIAL INFORMATIKA
+    [2] => INFORMATIKA SEKARANG DAN MASA DEPAN
+)
+
+Materi after filter: Array
+(
+    [0] => PEMROGRAMAN MODULAR
+    [1] => DAMPAK SOSIAL INFORMATIKA
+    [2] => INFORMATIKA SEKARANG DAN MASA DEPAN
+)
+
+Materi JSON: ["PEMROGRAMAN MODULAR","DAMPAK SOSIAL INFORMATIKA","INFORMATIKA SEKARANG DAN MASA DEPAN"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 149
+    [judul] => ASAT BAHASA ARAB KELAS 8
+    [mata_pelajaran] => Bahasa Arab
+    [kelas_id] => 68
+    [deskripsi] => Evaluasi Pembelajaran Semester Genap
+    [materi] => Array
+        (
+            [0] => KOSA KATA BAHASA ARAB TEMA PEKERJAAN
+            [1] => FI'IL MADHI
+            [2] => FI'IL MUDHORI'
+            [3] => FI'IL AMR
+        )
+
+    [tanggal_mulai] => 2025-05-27T07:00
+    [tanggal_selesai] => 2025-05-27T16:00
+    [durasi] => 540
+)
+
+
+Materi before filter: Array
+(
+    [0] => KOSA KATA BAHASA ARAB TEMA PEKERJAAN
+    [1] => FI'IL MADHI
+    [2] => FI'IL MUDHORI'
+    [3] => FI'IL AMR
+)
+
+Materi after filter: Array
+(
+    [0] => KOSA KATA BAHASA ARAB TEMA PEKERJAAN
+    [1] => FI'IL MADHI
+    [2] => FI'IL MUDHORI'
+    [3] => FI'IL AMR
+)
+
+Materi JSON: ["KOSA KATA BAHASA ARAB TEMA PEKERJAAN","FI'IL MADHI","FI'IL MUDHORI'","FI'IL AMR"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 137
+    [judul] => Test (ini adalah test untuk tim it, dilarang masuk)
+    [mata_pelajaran] => Bahasa Indonesia
+    [kelas_id] => 63
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Teks Prosedur
+            [1] => Teks Eksposisi
+            [2] => Cerpen
+        )
+
+    [tanggal_mulai] => 2025-05-25T00:00
+    [tanggal_selesai] => 2025-05-26T00:01
+    [durasi] => 1441
+)
+
+
+Materi before filter: Array
+(
+    [0] => Teks Prosedur
+    [1] => Teks Eksposisi
+    [2] => Cerpen
+)
+
+Materi after filter: Array
+(
+    [0] => Teks Prosedur
+    [1] => Teks Eksposisi
+    [2] => Cerpen
+)
+
+Materi JSON: ["Teks Prosedur","Teks Eksposisi","Cerpen"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 137
+    [judul] => Test (ini adalah test untuk tim it, dilarang masuk)
+    [mata_pelajaran] => Bahasa Indonesia
+    [kelas_id] => 63
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Teks Prosedur
+            [1] => Teks Eksposisi
+            [2] => Cerpen
+        )
+
+    [tanggal_mulai] => 2025-05-25T00:00
+    [tanggal_selesai] => 2025-05-27T00:01
+    [durasi] => 2881
+)
+
+
+Materi before filter: Array
+(
+    [0] => Teks Prosedur
+    [1] => Teks Eksposisi
+    [2] => Cerpen
+)
+
+Materi after filter: Array
+(
+    [0] => Teks Prosedur
+    [1] => Teks Eksposisi
+    [2] => Cerpen
+)
+
+Materi JSON: ["Teks Prosedur","Teks Eksposisi","Cerpen"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 153
+    [judul] => ASATA KEMUHAMMADIYAHAN
+    [mata_pelajaran] => Kemuhammadiyahan
+    [kelas_id] => 140
+    [deskripsi] => Evaluasi Akhir Semester
+    [materi] => Array
+        (
+            [0] => Struktur Organisasi IPM
+            [1] => Memahamai Amal Usaha Muhammadiyah dalam Bidang Pendidikan
+            [2] => Meneladani Ki Bagus Hadikusumo dalam Muhammadiyah
+            [3] => Memahami Dr. Soetomo dalam Muhammadiyah
+            [4] => Musyawarah dalam Ikatan Pelajar Muhammadiyah
+            [5] => Amal Usaha Muhammadiyah Bidang Kesehatan dan Ekonomi
+        )
+
+    [tanggal_mulai] => 2025-05-26T08:00
+    [tanggal_selesai] => 2025-05-26T15:00
+    [durasi] => 420
+)
+
+
+Materi before filter: Array
+(
+    [0] => Struktur Organisasi IPM
+    [1] => Memahamai Amal Usaha Muhammadiyah dalam Bidang Pendidikan
+    [2] => Meneladani Ki Bagus Hadikusumo dalam Muhammadiyah
+    [3] => Memahami Dr. Soetomo dalam Muhammadiyah
+    [4] => Musyawarah dalam Ikatan Pelajar Muhammadiyah
+    [5] => Amal Usaha Muhammadiyah Bidang Kesehatan dan Ekonomi
+)
+
+Materi after filter: Array
+(
+    [0] => Struktur Organisasi IPM
+    [1] => Memahamai Amal Usaha Muhammadiyah dalam Bidang Pendidikan
+    [2] => Meneladani Ki Bagus Hadikusumo dalam Muhammadiyah
+    [3] => Memahami Dr. Soetomo dalam Muhammadiyah
+    [4] => Musyawarah dalam Ikatan Pelajar Muhammadiyah
+    [5] => Amal Usaha Muhammadiyah Bidang Kesehatan dan Ekonomi
+)
+
+Materi JSON: ["Struktur Organisasi IPM","Memahamai Amal Usaha Muhammadiyah dalam Bidang Pendidikan","Meneladani Ki Bagus Hadikusumo dalam Muhammadiyah","Memahami Dr. Soetomo dalam Muhammadiyah","Musyawarah dalam Ikatan Pelajar Muhammadiyah","Amal Usaha Muhammadiyah Bidang Kesehatan dan Ekonomi"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 129
+    [judul] => ENGLISH CLASS 8
+    [mata_pelajaran] => Bahasa Inggris
+    [kelas_id] => 73
+    [deskripsi] => Evaluasi pembelajaran
+    [materi] => Array
+        (
+            [0] => Materi semester genap
+        )
+
+    [tanggal_mulai] => 2025-05-27T07:30
+    [tanggal_selesai] => 2025-05-27T15:30
+    [durasi] => 480
+)
+
+
+Materi before filter: Array
+(
+    [0] => Materi semester genap
+)
+
+Materi after filter: Array
+(
+    [0] => Materi semester genap
+)
+
+Materi JSON: ["Materi semester genap"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 129
+    [judul] => ENGLISH CLASS 8
+    [mata_pelajaran] => Bahasa Inggris
+    [kelas_id] => 73
+    [deskripsi] => Evaluasi pembelajaran
+    [materi] => Array
+        (
+            [0] => VOCABULARY ABOUT SCHOOLING
+            [1] => simple present
+            [2] => present continouos
+            [3] => simple test
+            [4] => greeting
+            [5] => conversation
+        )
+
+    [tanggal_mulai] => 2025-05-27T07:30
+    [tanggal_selesai] => 2025-05-27T15:30
+    [durasi] => 480
+)
+
+
+Materi before filter: Array
+(
+    [0] => VOCABULARY ABOUT SCHOOLING
+    [1] => simple present
+    [2] => present continouos
+    [3] => simple test
+    [4] => greeting
+    [5] => conversation
+)
+
+Materi after filter: Array
+(
+    [0] => VOCABULARY ABOUT SCHOOLING
+    [1] => simple present
+    [2] => present continouos
+    [3] => simple test
+    [4] => greeting
+    [5] => conversation
+)
+
+Materi JSON: ["VOCABULARY ABOUT SCHOOLING","simple present","present continouos","simple test","greeting","conversation"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 130
+    [judul] => ENGLISH CLASS 7
+    [mata_pelajaran] => Bahasa Inggris
+    [kelas_id] => 71
+    [deskripsi] => Evaluasi Pembelajaran
+    [materi] => Array
+        (
+            [0] => simple present
+            [1] => simple past
+            [2] => sinple present continous
+            [3] => VOCABULARY ABOUT SCHOOLING
+            [4] => greeting
+            [5] => conversation
+        )
+
+    [tanggal_mulai] => 2025-05-27T07:00
+    [tanggal_selesai] => 2025-05-27T15:00
+    [durasi] => 480
+)
+
+
+Materi before filter: Array
+(
+    [0] => simple present
+    [1] => simple past
+    [2] => sinple present continous
+    [3] => VOCABULARY ABOUT SCHOOLING
+    [4] => greeting
+    [5] => conversation
+)
+
+Materi after filter: Array
+(
+    [0] => simple present
+    [1] => simple past
+    [2] => sinple present continous
+    [3] => VOCABULARY ABOUT SCHOOLING
+    [4] => greeting
+    [5] => conversation
+)
+
+Materi JSON: ["simple present","simple past","sinple present continous","VOCABULARY ABOUT SCHOOLING","greeting","conversation"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 129
+    [judul] => ENGLISH CLASS 8
+    [mata_pelajaran] => Bahasa Inggris
+    [kelas_id] => 73
+    [deskripsi] => Evaluasi pembelajaran
+    [materi] => Array
+        (
+            [0] => VOCABULARY ABOUT SCHOOLING
+            [1] => simple present
+            [2] => present continouos
+            [3] => simple past
+            [4] => greeting
+            [5] => conversation
+        )
+
+    [tanggal_mulai] => 2025-05-27T07:30
+    [tanggal_selesai] => 2025-05-27T15:30
+    [durasi] => 480
+)
+
+
+Materi before filter: Array
+(
+    [0] => VOCABULARY ABOUT SCHOOLING
+    [1] => simple present
+    [2] => present continouos
+    [3] => simple past
+    [4] => greeting
+    [5] => conversation
+)
+
+Materi after filter: Array
+(
+    [0] => VOCABULARY ABOUT SCHOOLING
+    [1] => simple present
+    [2] => present continouos
+    [3] => simple past
+    [4] => greeting
+    [5] => conversation
+)
+
+Materi JSON: ["VOCABULARY ABOUT SCHOOLING","simple present","present continouos","simple past","greeting","conversation"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 156
+    [judul] => ENGLISH CLASS 7
+    [mata_pelajaran] => Bahasa Inggris
+    [kelas_id] => 71
+    [deskripsi] => Evaluasi pembelajaran
+    [materi] => Array
+        (
+            [0] => simple present
+            [1] => simple past
+            [2] => VOCABULARY ABOUT SCHOOLING
+            [3] => greeting
+            [4] => conversation
+            [5] => simple present continous
+        )
+
+    [tanggal_mulai] => 2025-05-27T07:30
+    [tanggal_selesai] => 2025-05-27T15:30
+    [durasi] => 480
+)
+
+
+Materi before filter: Array
+(
+    [0] => simple present
+    [1] => simple past
+    [2] => VOCABULARY ABOUT SCHOOLING
+    [3] => greeting
+    [4] => conversation
+    [5] => simple present continous
+)
+
+Materi after filter: Array
+(
+    [0] => simple present
+    [1] => simple past
+    [2] => VOCABULARY ABOUT SCHOOLING
+    [3] => greeting
+    [4] => conversation
+    [5] => simple present continous
+)
+
+Materi JSON: ["simple present","simple past","VOCABULARY ABOUT SCHOOLING","greeting","conversation","simple present continous"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 155
+    [judul] => ASAT KELAS 8 BAHASA ARAB 
+    [mata_pelajaran] => Bahasa Arab
+    [kelas_id] => 66
+    [deskripsi] => Evaluasi Bahasa Arab Semester Genap
+    [materi] => Array
+        (
+            [0] => Materi semester genap
+            [1] => مفردات في الفصل
+            [2] => في البيت
+            [3] => في المسجد
+        )
+
+    [tanggal_mulai] => 2025-05-27T07:00
+    [tanggal_selesai] => 2025-05-27T15:30
+    [durasi] => 510
+)
+
+
+Materi before filter: Array
+(
+    [0] => Materi semester genap
+    [1] => مفردات في الفصل
+    [2] => في البيت
+    [3] => في المسجد
+)
+
+Materi after filter: Array
+(
+    [0] => Materi semester genap
+    [1] => مفردات في الفصل
+    [2] => في البيت
+    [3] => في المسجد
+)
+
+Materi JSON: ["Materi semester genap","\u0645\u0641\u0631\u062f\u0627\u062a \u0641\u064a \u0627\u0644\u0641\u0635\u0644","\u0641\u064a \u0627\u0644\u0628\u064a\u062a","\u0641\u064a \u0627\u0644\u0645\u0633\u062c\u062f"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 155
+    [judul] => ASAT KELAS 8 BAHASA ARAB
+    [mata_pelajaran] => Bahasa Arab
+    [kelas_id] => 66
+    [deskripsi] => Evaluasi Bahasa Arab Semester Genap
+    [materi] => Array
+        (
+            [0] => Materi semester genap
+            [1] => مفردات في الفصل
+            [2] => في البيت
+            [3] => في المسجد
+            [4] => في االسوق
+            [5] => فعل الماضي
+            [6] => فعل المضارع
+            [7] => فعل الأمر
+            [8] => مبتدأ و الخبر
+        )
+
+    [tanggal_mulai] => 2025-05-27T07:00
+    [tanggal_selesai] => 2025-05-27T15:30
+    [durasi] => 510
+)
+
+
+Materi before filter: Array
+(
+    [0] => Materi semester genap
+    [1] => مفردات في الفصل
+    [2] => في البيت
+    [3] => في المسجد
+    [4] => في االسوق
+    [5] => فعل الماضي
+    [6] => فعل المضارع
+    [7] => فعل الأمر
+    [8] => مبتدأ و الخبر
+)
+
+Materi after filter: Array
+(
+    [0] => Materi semester genap
+    [1] => مفردات في الفصل
+    [2] => في البيت
+    [3] => في المسجد
+    [4] => في االسوق
+    [5] => فعل الماضي
+    [6] => فعل المضارع
+    [7] => فعل الأمر
+    [8] => مبتدأ و الخبر
+)
+
+Materi JSON: ["Materi semester genap","\u0645\u0641\u0631\u062f\u0627\u062a \u0641\u064a \u0627\u0644\u0641\u0635\u0644","\u0641\u064a \u0627\u0644\u0628\u064a\u062a","\u0641\u064a \u0627\u0644\u0645\u0633\u062c\u062f","\u0641\u064a \u0627\u0627\u0644\u0633\u0648\u0642","\u0641\u0639\u0644 \u0627\u0644\u0645\u0627\u0636\u064a","\u0641\u0639\u0644 \u0627\u0644\u0645\u0636\u0627\u0631\u0639","\u0641\u0639\u0644 \u0627\u0644\u0623\u0645\u0631","\u0645\u0628\u062a\u062f\u0623 \u0648 \u0627\u0644\u062e\u0628\u0631"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 155
+    [judul] => ASAT BAHASA ARAB 7
+    [mata_pelajaran] => Bahasa Arab
+    [kelas_id] => 66
+    [deskripsi] => Evaluasi Bahasa Arab Semester Genap
+    [materi] => Array
+        (
+            [0] => Materi semester genap
+            [1] => مفردات في الفصل
+            [2] => في البيت
+            [3] => في المسجد
+            [4] => في االسوق
+            [5] => فعل الماضي
+            [6] => فعل المضارع
+            [7] => فعل الأمر
+            [8] => مبتدأ و الخبر
+        )
+
+    [tanggal_mulai] => 2025-05-27T07:00
+    [tanggal_selesai] => 2025-05-27T15:30
+    [durasi] => 510
+)
+
+
+Materi before filter: Array
+(
+    [0] => Materi semester genap
+    [1] => مفردات في الفصل
+    [2] => في البيت
+    [3] => في المسجد
+    [4] => في االسوق
+    [5] => فعل الماضي
+    [6] => فعل المضارع
+    [7] => فعل الأمر
+    [8] => مبتدأ و الخبر
+)
+
+Materi after filter: Array
+(
+    [0] => Materi semester genap
+    [1] => مفردات في الفصل
+    [2] => في البيت
+    [3] => في المسجد
+    [4] => في االسوق
+    [5] => فعل الماضي
+    [6] => فعل المضارع
+    [7] => فعل الأمر
+    [8] => مبتدأ و الخبر
+)
+
+Materi JSON: ["Materi semester genap","\u0645\u0641\u0631\u062f\u0627\u062a \u0641\u064a \u0627\u0644\u0641\u0635\u0644","\u0641\u064a \u0627\u0644\u0628\u064a\u062a","\u0641\u064a \u0627\u0644\u0645\u0633\u062c\u062f","\u0641\u064a \u0627\u0627\u0644\u0633\u0648\u0642","\u0641\u0639\u0644 \u0627\u0644\u0645\u0627\u0636\u064a","\u0641\u0639\u0644 \u0627\u0644\u0645\u0636\u0627\u0631\u0639","\u0641\u0639\u0644 \u0627\u0644\u0623\u0645\u0631","\u0645\u0628\u062a\u062f\u0623 \u0648 \u0627\u0644\u062e\u0628\u0631"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 157
+    [judul] => ASAT BAHASA ARAB KELAS 8
+    [mata_pelajaran] => BAHASA ARAB
+    [kelas_id] => 68
+    [deskripsi] => Evaluasi Bahasa Arab Semester Genap
+    [tanggal_mulai] => 2025-05-27T07:00
+    [tanggal_selesai] => 2025-05-27T15:30
+    [durasi] => 510
+)
+
+
+Materi before filter: Array
+(
+)
+
+Materi after filter: Array
+(
+)
+
+Materi JSON: []
+
+POST Data for edit: Array
+(
+    [ujian_id] => 157
+    [judul] => ASAT BAHASA ARAB KELAS 8
+    [mata_pelajaran] => BAHASA ARAB
+    [kelas_id] => 68
+    [deskripsi] => Evaluasi Bahasa Arab Semester Genap
+    [tanggal_mulai] => 2025-05-27T07:00
+    [tanggal_selesai] => 2025-05-27T15:30
+    [durasi] => 510
+)
+
+
+Materi before filter: Array
+(
+)
+
+Materi after filter: Array
+(
+)
+
+Materi JSON: []
+
+POST Data for edit: Array
+(
+    [ujian_id] => 155
+    [judul] => ASAT BAHASA ARAB KELAS 7
+    [mata_pelajaran] => Bahasa Arab
+    [kelas_id] => 66
+    [deskripsi] => Evaluasi Bahasa Arab Semester Genap
+    [materi] => Array
+        (
+            [0] => Materi semester genap
+            [1] => مفردات في الفصل
+            [2] => في البيت
+            [3] => في المسجد
+            [4] => في االسوق
+            [5] => فعل الماضي
+            [6] => فعل المضارع
+            [7] => فعل الأمر
+            [8] => مبتدأ و الخبر
+        )
+
+    [tanggal_mulai] => 2025-05-27T07:00
+    [tanggal_selesai] => 2025-05-27T15:30
+    [durasi] => 510
+)
+
+
+Materi before filter: Array
+(
+    [0] => Materi semester genap
+    [1] => مفردات في الفصل
+    [2] => في البيت
+    [3] => في المسجد
+    [4] => في االسوق
+    [5] => فعل الماضي
+    [6] => فعل المضارع
+    [7] => فعل الأمر
+    [8] => مبتدأ و الخبر
+)
+
+Materi after filter: Array
+(
+    [0] => Materi semester genap
+    [1] => مفردات في الفصل
+    [2] => في البيت
+    [3] => في المسجد
+    [4] => في االسوق
+    [5] => فعل الماضي
+    [6] => فعل المضارع
+    [7] => فعل الأمر
+    [8] => مبتدأ و الخبر
+)
+
+Materi JSON: ["Materi semester genap","\u0645\u0641\u0631\u062f\u0627\u062a \u0641\u064a \u0627\u0644\u0641\u0635\u0644","\u0641\u064a \u0627\u0644\u0628\u064a\u062a","\u0641\u064a \u0627\u0644\u0645\u0633\u062c\u062f","\u0641\u064a \u0627\u0627\u0644\u0633\u0648\u0642","\u0641\u0639\u0644 \u0627\u0644\u0645\u0627\u0636\u064a","\u0641\u0639\u0644 \u0627\u0644\u0645\u0636\u0627\u0631\u0639","\u0641\u0639\u0644 \u0627\u0644\u0623\u0645\u0631","\u0645\u0628\u062a\u062f\u0623 \u0648 \u0627\u0644\u062e\u0628\u0631"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 158
+    [judul] => ENGLISH CLASS 8
+    [mata_pelajaran] => Bahasa Inggris
+    [kelas_id] => 73
+    [deskripsi] => Evaluasi pembelajaran
+    [tanggal_mulai] => 2025-05-27T07:00
+    [tanggal_selesai] => 2025-05-27T15:30
+    [durasi] => 510
+)
+
+
+Materi before filter: Array
+(
+)
+
+Materi after filter: Array
+(
+)
+
+Materi JSON: []
+
+POST Data for edit: Array
+(
+    [ujian_id] => 156
+    [judul] => ENGLISH CLASS 7
+    [mata_pelajaran] => Bahasa Inggris
+    [kelas_id] => 71
+    [deskripsi] => Evaluasi pembelajaran
+    [materi] => Array
+        (
+            [0] => simple present
+            [1] => simple past
+            [2] => VOCABULARY ABOUT SCHOOLING
+            [3] => greeting
+            [4] => conversation
+            [5] => simple present continous
+        )
+
+    [tanggal_mulai] => 2025-05-27T07:00
+    [tanggal_selesai] => 2025-05-27T15:30
+    [durasi] => 510
+)
+
+
+Materi before filter: Array
+(
+    [0] => simple present
+    [1] => simple past
+    [2] => VOCABULARY ABOUT SCHOOLING
+    [3] => greeting
+    [4] => conversation
+    [5] => simple present continous
+)
+
+Materi after filter: Array
+(
+    [0] => simple present
+    [1] => simple past
+    [2] => VOCABULARY ABOUT SCHOOLING
+    [3] => greeting
+    [4] => conversation
+    [5] => simple present continous
+)
+
+Materi JSON: ["simple present","simple past","VOCABULARY ABOUT SCHOOLING","greeting","conversation","simple present continous"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 137
+    [judul] => Test (ini adalah test untuk tim it, dilarang masuk)
+    [mata_pelajaran] => Bahasa Indonesia
+    [kelas_id] => 63
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Teks Prosedur
+            [1] => Teks Eksposisi
+            [2] => Cerpen
+        )
+
+    [tanggal_mulai] => 2025-05-27T00:00
+    [tanggal_selesai] => 2025-05-28T00:01
+    [durasi] => 1441
+)
+
+
+Materi before filter: Array
+(
+    [0] => Teks Prosedur
+    [1] => Teks Eksposisi
+    [2] => Cerpen
+)
+
+Materi after filter: Array
+(
+    [0] => Teks Prosedur
+    [1] => Teks Eksposisi
+    [2] => Cerpen
+)
+
+Materi JSON: ["Teks Prosedur","Teks Eksposisi","Cerpen"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 112
+    [judul] => ASAT MATEMATIKA TINGKAT LANJUT XI
+    [mata_pelajaran] => Matematika Tingkat Lanjut SMA
+    [kelas_id] => 94
+    [deskripsi] => -
+    [materi] => Array
+        (
+            [0] => Persamaan Trigonometri
+            [1] => Aturan Sinus Cosinus
+        )
+
+    [tanggal_mulai] => 2025-05-27T12:15
+    [tanggal_selesai] => 2025-05-27T13:55
+    [durasi] => 100
+)
+
+
+Materi before filter: Array
+(
+    [0] => Persamaan Trigonometri
+    [1] => Aturan Sinus Cosinus
+)
+
+Materi after filter: Array
+(
+    [0] => Persamaan Trigonometri
+    [1] => Aturan Sinus Cosinus
+)
+
+Materi JSON: ["Persamaan Trigonometri","Aturan Sinus Cosinus"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 109
+    [judul] => ASAT EKONOMI KELAS XI/F
+    [mata_pelajaran] => Ekonomi
+    [kelas_id] => 82
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Peredaran Uang, Inflasi, dan Kebijakan Moneter
+            [1] => Konsep Anggaran, Kebijakan Fiskal, dan Perpajakan
+        )
+
+    [tanggal_mulai] => 2025-05-27T13:30
+    [tanggal_selesai] => 2025-05-27T15:00
+    [durasi] => 90
+)
+
+
+Materi before filter: Array
+(
+    [0] => Peredaran Uang, Inflasi, dan Kebijakan Moneter
+    [1] => Konsep Anggaran, Kebijakan Fiskal, dan Perpajakan
+)
+
+Materi after filter: Array
+(
+    [0] => Peredaran Uang, Inflasi, dan Kebijakan Moneter
+    [1] => Konsep Anggaran, Kebijakan Fiskal, dan Perpajakan
+)
+
+Materi JSON: ["Peredaran Uang, Inflasi, dan Kebijakan Moneter","Konsep Anggaran, Kebijakan Fiskal, dan Perpajakan"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 160
+    [judul] => ASATA KELAS 8
+    [mata_pelajaran] => MATEMATIKA
+    [kelas_id] => 141
+    [deskripsi] => Evaluasi Akhir Semester
+    [tanggal_mulai] => 2025-05-28T08:00
+    [tanggal_selesai] => 2025-05-28T15:00
+    [durasi] => 420
+)
+
+
+Materi before filter: Array
+(
+)
+
+Materi after filter: Array
+(
+)
+
+Materi JSON: []
+
+POST Data for edit: Array
+(
+    [ujian_id] => 159
+    [judul] => ASATA KELAS 7
+    [mata_pelajaran] => Matematika
+    [kelas_id] => 141
+    [deskripsi] => Evaluasi Akhir Semester
+    [materi] => Array
+        (
+            [0] => Pola Bilangan
+            [1] => Pecahan
+            [2] => Bangun datar dan rumus
+            [3] => Bangun Ruang dan Rumus
+        )
+
+    [tanggal_mulai] => 2025-05-28T08:00
+    [tanggal_selesai] => 2025-05-28T15:00
+    [durasi] => 420
+)
+
+
+Materi before filter: Array
+(
+    [0] => Pola Bilangan
+    [1] => Pecahan
+    [2] => Bangun datar dan rumus
+    [3] => Bangun Ruang dan Rumus
+)
+
+Materi after filter: Array
+(
+    [0] => Pola Bilangan
+    [1] => Pecahan
+    [2] => Bangun datar dan rumus
+    [3] => Bangun Ruang dan Rumus
+)
+
+Materi JSON: ["Pola Bilangan","Pecahan","Bangun datar dan rumus","Bangun Ruang dan Rumus"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 160
+    [judul] => ASATA KELAS 8
+    [mata_pelajaran] => MATEMATIKA
+    [kelas_id] => 142
+    [deskripsi] => Evaluasi Akhir Semester
+    [tanggal_mulai] => 2025-05-28T08:00
+    [tanggal_selesai] => 2025-05-28T15:00
+    [durasi] => 420
+)
+
+
+Materi before filter: Array
+(
+)
+
+Materi after filter: Array
+(
+)
+
+Materi JSON: []
+
+POST Data for edit: Array
+(
+    [ujian_id] => 109
+    [judul] => ASAT EKONOMI KELAS XI/F
+    [mata_pelajaran] => Ekonomi
+    [kelas_id] => 82
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Peredaran Uang, Inflasi, dan Kebijakan Moneter
+            [1] => Konsep Anggaran, Kebijakan Fiskal, dan Perpajakan
+        )
+
+    [tanggal_mulai] => 2025-05-27T13:15
+    [tanggal_selesai] => 2025-05-27T14:30
+    [durasi] => 75
+)
+
+
+Materi before filter: Array
+(
+    [0] => Peredaran Uang, Inflasi, dan Kebijakan Moneter
+    [1] => Konsep Anggaran, Kebijakan Fiskal, dan Perpajakan
+)
+
+Materi after filter: Array
+(
+    [0] => Peredaran Uang, Inflasi, dan Kebijakan Moneter
+    [1] => Konsep Anggaran, Kebijakan Fiskal, dan Perpajakan
+)
+
+Materi JSON: ["Peredaran Uang, Inflasi, dan Kebijakan Moneter","Konsep Anggaran, Kebijakan Fiskal, dan Perpajakan"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 138
+    [judul] => ASATA IPS KELAS 8
+    [mata_pelajaran] => Ilmu Pengetahuan Sosial
+    [kelas_id] => 126
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Nasionalisme dan jati diri bangsa
+            [1] => Pembangunan perekonomian Indonesia
+        )
+
+    [tanggal_mulai] => 2025-05-28T08:00
+    [tanggal_selesai] => 2025-05-28T15:30
+    [durasi] => 450
+)
+
+
+Materi before filter: Array
+(
+    [0] => Nasionalisme dan jati diri bangsa
+    [1] => Pembangunan perekonomian Indonesia
+)
+
+Materi after filter: Array
+(
+    [0] => Nasionalisme dan jati diri bangsa
+    [1] => Pembangunan perekonomian Indonesia
+)
+
+Materi JSON: ["Nasionalisme dan jati diri bangsa","Pembangunan perekonomian Indonesia"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 136
+    [judul] => ASATA IPS KELAS 7
+    [mata_pelajaran] => Ilmu Pengetahuan Sosial
+    [kelas_id] => 123
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => POTENSI EKONOMI LINGKUNGAN
+            [1] => PEMBERDAYAAN MASYARAKAT
+        )
+
+    [tanggal_mulai] => 2025-05-28T08:00
+    [tanggal_selesai] => 2025-05-28T15:30
+    [durasi] => 450
+)
+
+
+Materi before filter: Array
+(
+    [0] => POTENSI EKONOMI LINGKUNGAN
+    [1] => PEMBERDAYAAN MASYARAKAT
+)
+
+Materi after filter: Array
+(
+    [0] => POTENSI EKONOMI LINGKUNGAN
+    [1] => PEMBERDAYAAN MASYARAKAT
+)
+
+Materi JSON: ["POTENSI EKONOMI LINGKUNGAN","PEMBERDAYAAN MASYARAKAT"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 136
+    [judul] => ASATA IPS KELAS 7
+    [mata_pelajaran] => Ilmu Pengetahuan Sosial
+    [kelas_id] => 123
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => POTENSI EKONOMI LINGKUNGAN
+            [1] => PEMBERDAYAAN MASYARAKAT
+        )
+
+    [tanggal_mulai] => 2025-05-28T08:00
+    [tanggal_selesai] => 2025-05-28T16:30
+    [durasi] => 510
+)
+
+
+Materi before filter: Array
+(
+    [0] => POTENSI EKONOMI LINGKUNGAN
+    [1] => PEMBERDAYAAN MASYARAKAT
+)
+
+Materi after filter: Array
+(
+    [0] => POTENSI EKONOMI LINGKUNGAN
+    [1] => PEMBERDAYAAN MASYARAKAT
+)
+
+Materi JSON: ["POTENSI EKONOMI LINGKUNGAN","PEMBERDAYAAN MASYARAKAT"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 119
+    [judul] => ASAT BAHASA INGGRIS 2025 (FASE F)
+    [mata_pelajaran] => Bahasa Inggris
+    [kelas_id] => 115
+    [deskripsi] => -
+    [materi] => Array
+        (
+            [0] => Hortatory Exposition
+            [1] => Anger and Annoying
+            [2] => Exposition Text
+            [3] => Showing Sympathy
+            [4] => Adversitement
+            [5] => Announcement
+            [6] => Feeling Embrassed
+            [7] => Songs
+            [8] => Like and Dislike
+            [9] => Wish , If only and As If
+        )
+
+    [tanggal_mulai] => 2025-05-28T09:31
+    [tanggal_selesai] => 2025-05-28T11:00
+    [durasi] => 89
+)
+
+
+Materi before filter: Array
+(
+    [0] => Hortatory Exposition
+    [1] => Anger and Annoying
+    [2] => Exposition Text
+    [3] => Showing Sympathy
+    [4] => Adversitement
+    [5] => Announcement
+    [6] => Feeling Embrassed
+    [7] => Songs
+    [8] => Like and Dislike
+    [9] => Wish , If only and As If
+)
+
+Materi after filter: Array
+(
+    [0] => Hortatory Exposition
+    [1] => Anger and Annoying
+    [2] => Exposition Text
+    [3] => Showing Sympathy
+    [4] => Adversitement
+    [5] => Announcement
+    [6] => Feeling Embrassed
+    [7] => Songs
+    [8] => Like and Dislike
+    [9] => Wish , If only and As If
+)
+
+Materi JSON: ["Hortatory Exposition","Anger and Annoying","Exposition Text","Showing Sympathy","Adversitement","Announcement","Feeling Embrassed","Songs","Like and Dislike","Wish , If only and As If"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 137
+    [judul] => Test (ini adalah test untuk tim it, dilarang masuk)
+    [mata_pelajaran] => Bahasa Indonesia
+    [kelas_id] => 63
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Teks Prosedur
+            [1] => Teks Eksposisi
+            [2] => Cerpen
+        )
+
+    [tanggal_mulai] => 2025-05-28T00:00
+    [tanggal_selesai] => 2025-05-29T00:01
+    [durasi] => 1441
+)
+
+
+Materi before filter: Array
+(
+    [0] => Teks Prosedur
+    [1] => Teks Eksposisi
+    [2] => Cerpen
+)
+
+Materi after filter: Array
+(
+    [0] => Teks Prosedur
+    [1] => Teks Eksposisi
+    [2] => Cerpen
+)
+
+Materi JSON: ["Teks Prosedur","Teks Eksposisi","Cerpen"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 120
+    [judul] => ASAT SOSIOLOGI KELAS X
+    [mata_pelajaran] => Sosiologi
+    [kelas_id] => 90
+    [deskripsi] => -
+    [materi] => Array
+        (
+            [0] => Lembaga sosial
+            [1] => Ragam gejala sosial pada masyarakat multikultural
+        )
+
+    [tanggal_mulai] => 2025-05-28T11:00
+    [tanggal_selesai] => 2025-05-28T12:30
+    [durasi] => 90
+)
+
+
+Materi before filter: Array
+(
+    [0] => Lembaga sosial
+    [1] => Ragam gejala sosial pada masyarakat multikultural
+)
+
+Materi after filter: Array
+(
+    [0] => Lembaga sosial
+    [1] => Ragam gejala sosial pada masyarakat multikultural
+)
+
+Materi JSON: ["Lembaga sosial","Ragam gejala sosial pada masyarakat multikultural"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 96
+    [judul] => ASAT KIMIA KELAS X
+    [mata_pelajaran] => Kimia
+    [kelas_id] => 99
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => STRUKTUR ATOM DAN SISTEM PERIODIK UNSUR
+            [1] => IKATAN ION DAN KOVALEN
+            [2] => LARUTAN ELEKTROLIT DAN NON ELEKTROLIT
+        )
+
+    [tanggal_mulai] => 2025-05-28T12:15
+    [tanggal_selesai] => 2025-05-28T14:00
+    [durasi] => 105
+)
+
+
+Materi before filter: Array
+(
+    [0] => STRUKTUR ATOM DAN SISTEM PERIODIK UNSUR
+    [1] => IKATAN ION DAN KOVALEN
+    [2] => LARUTAN ELEKTROLIT DAN NON ELEKTROLIT
+)
+
+Materi after filter: Array
+(
+    [0] => STRUKTUR ATOM DAN SISTEM PERIODIK UNSUR
+    [1] => IKATAN ION DAN KOVALEN
+    [2] => LARUTAN ELEKTROLIT DAN NON ELEKTROLIT
+)
+
+Materi JSON: ["STRUKTUR ATOM DAN SISTEM PERIODIK UNSUR","IKATAN ION DAN KOVALEN","LARUTAN ELEKTROLIT DAN NON ELEKTROLIT"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 136
+    [judul] => ASATA IPS KELAS 7
+    [mata_pelajaran] => Ilmu Pengetahuan Sosial
+    [kelas_id] => 123
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => POTENSI EKONOMI LINGKUNGAN
+            [1] => PEMBERDAYAAN MASYARAKAT
+        )
+
+    [tanggal_mulai] => 2025-05-28T08:00
+    [tanggal_selesai] => 2025-05-28T16:30
+    [durasi] => 510
+)
+
+
+Materi before filter: Array
+(
+    [0] => POTENSI EKONOMI LINGKUNGAN
+    [1] => PEMBERDAYAAN MASYARAKAT
+)
+
+Materi after filter: Array
+(
+    [0] => POTENSI EKONOMI LINGKUNGAN
+    [1] => PEMBERDAYAAN MASYARAKAT
+)
+
+Materi JSON: ["POTENSI EKONOMI LINGKUNGAN","PEMBERDAYAAN MASYARAKAT"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 134
+    [judul] => ASATA PPKN KELAS 7
+    [mata_pelajaran] => PPkn
+    [kelas_id] => 124
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Keberagaman dalam Bingkai Bhinneka Tunggal Ika
+            [1] => Pelestarian Budaya Lokal
+            [2] => Wilayah Negara Kesatuan Republik Indonesia
+        )
+
+    [tanggal_mulai] => 2025-05-28T08:00
+    [tanggal_selesai] => 2025-05-23T16:00
+    [durasi] => 480
+)
+
+
+Materi before filter: Array
+(
+    [0] => Keberagaman dalam Bingkai Bhinneka Tunggal Ika
+    [1] => Pelestarian Budaya Lokal
+    [2] => Wilayah Negara Kesatuan Republik Indonesia
+)
+
+Materi after filter: Array
+(
+    [0] => Keberagaman dalam Bingkai Bhinneka Tunggal Ika
+    [1] => Pelestarian Budaya Lokal
+    [2] => Wilayah Negara Kesatuan Republik Indonesia
+)
+
+Materi JSON: ["Keberagaman dalam Bingkai Bhinneka Tunggal Ika","Pelestarian Budaya Lokal","Wilayah Negara Kesatuan Republik Indonesia"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 134
+    [judul] => ASATA PPKN KELAS 7
+    [mata_pelajaran] => PPkn
+    [kelas_id] => 124
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Keberagaman dalam Bingkai Bhinneka Tunggal Ika
+            [1] => Pelestarian Budaya Lokal
+            [2] => Wilayah Negara Kesatuan Republik Indonesia
+        )
+
+    [tanggal_mulai] => 2025-05-28T08:00
+    [tanggal_selesai] => 2025-05-28T16:00
+    [durasi] => 480
+)
+
+
+Materi before filter: Array
+(
+    [0] => Keberagaman dalam Bingkai Bhinneka Tunggal Ika
+    [1] => Pelestarian Budaya Lokal
+    [2] => Wilayah Negara Kesatuan Republik Indonesia
+)
+
+Materi after filter: Array
+(
+    [0] => Keberagaman dalam Bingkai Bhinneka Tunggal Ika
+    [1] => Pelestarian Budaya Lokal
+    [2] => Wilayah Negara Kesatuan Republik Indonesia
+)
+
+Materi JSON: ["Keberagaman dalam Bingkai Bhinneka Tunggal Ika","Pelestarian Budaya Lokal","Wilayah Negara Kesatuan Republik Indonesia"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 132
+    [judul] => ASATA TIK
+    [mata_pelajaran] => TIK
+    [kelas_id] => 121
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Pengenalan Internet
+            [1] => Microsoft Pengolah Kata
+            [2] => Microsoft Pengolahan Spreadsheet
+        )
+
+    [tanggal_mulai] => 2025-05-28T08:00
+    [tanggal_selesai] => 2025-05-28T16:00
+    [durasi] => 480
+)
+
+
+Materi before filter: Array
+(
+    [0] => Pengenalan Internet
+    [1] => Microsoft Pengolah Kata
+    [2] => Microsoft Pengolahan Spreadsheet
+)
+
+Materi after filter: Array
+(
+    [0] => Pengenalan Internet
+    [1] => Microsoft Pengolah Kata
+    [2] => Microsoft Pengolahan Spreadsheet
+)
+
+Materi JSON: ["Pengenalan Internet","Microsoft Pengolah Kata","Microsoft Pengolahan Spreadsheet"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 145
+    [judul] => ASATA Seni budaya kelas VII
+    [mata_pelajaran] => Seni Budaya
+    [kelas_id] => 131
+    [deskripsi] => seni rupa
+    [tanggal_mulai] => 2025-05-28T08:00
+    [tanggal_selesai] => 2025-05-28T16:00
+    [durasi] => 480
+)
+
+
+Materi before filter: Array
+(
+)
+
+Materi after filter: Array
+(
+)
+
+Materi JSON: []
+
+POST Data for edit: Array
+(
+    [ujian_id] => 127
+    [judul] => ASAT BAHASA INDONESIA KELAS 7
+    [mata_pelajaran] => Bahasa Indonesia
+    [kelas_id] => 75
+    [deskripsi] => Evaluasi pembelajaran
+    [materi] => Array
+        (
+            [0] => Materi semester genap
+        )
+
+    [tanggal_mulai] => 2025-05-22T07:00
+    [tanggal_selesai] => 2025-05-30T15:30
+    [durasi] => 12030
+)
+
+
+Materi before filter: Array
+(
+    [0] => Materi semester genap
+)
+
+Materi after filter: Array
+(
+    [0] => Materi semester genap
+)
+
+Materi JSON: ["Materi semester genap"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 128
+    [judul] => ASAT BAHASA INDONESIA KELAS 8
+    [mata_pelajaran] => Bahasa Indonesia
+    [kelas_id] => 77
+    [deskripsi] => Evaluasi pembelajaran
+    [materi] => Array
+        (
+            [0] => Materi semester genap
+        )
+
+    [tanggal_mulai] => 2025-05-22T07:30
+    [tanggal_selesai] => 2025-05-30T15:30
+    [durasi] => 12000
+)
+
+
+Materi before filter: Array
+(
+    [0] => Materi semester genap
+)
+
+Materi after filter: Array
+(
+    [0] => Materi semester genap
+)
+
+Materi JSON: ["Materi semester genap"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 155
+    [judul] => ASAT BAHASA ARAB KELAS 7
+    [mata_pelajaran] => Bahasa Arab
+    [kelas_id] => 66
+    [deskripsi] => Evaluasi Bahasa Arab Semester Genap
+    [materi] => Array
+        (
+            [0] => Materi semester genap
+            [1] => مفردات في الفصل
+            [2] => في البيت
+            [3] => في المسجد
+            [4] => في االسوق
+            [5] => فعل الماضي
+            [6] => فعل المضارع
+            [7] => فعل الأمر
+            [8] => مبتدأ و الخبر
+        )
+
+    [tanggal_mulai] => 2025-05-27T07:00
+    [tanggal_selesai] => 2025-05-30T15:30
+    [durasi] => 4830
+)
+
+
+Materi before filter: Array
+(
+    [0] => Materi semester genap
+    [1] => مفردات في الفصل
+    [2] => في البيت
+    [3] => في المسجد
+    [4] => في االسوق
+    [5] => فعل الماضي
+    [6] => فعل المضارع
+    [7] => فعل الأمر
+    [8] => مبتدأ و الخبر
+)
+
+Materi after filter: Array
+(
+    [0] => Materi semester genap
+    [1] => مفردات في الفصل
+    [2] => في البيت
+    [3] => في المسجد
+    [4] => في االسوق
+    [5] => فعل الماضي
+    [6] => فعل المضارع
+    [7] => فعل الأمر
+    [8] => مبتدأ و الخبر
+)
+
+Materi JSON: ["Materi semester genap","\u0645\u0641\u0631\u062f\u0627\u062a \u0641\u064a \u0627\u0644\u0641\u0635\u0644","\u0641\u064a \u0627\u0644\u0628\u064a\u062a","\u0641\u064a \u0627\u0644\u0645\u0633\u062c\u062f","\u0641\u064a \u0627\u0627\u0644\u0633\u0648\u0642","\u0641\u0639\u0644 \u0627\u0644\u0645\u0627\u0636\u064a","\u0641\u0639\u0644 \u0627\u0644\u0645\u0636\u0627\u0631\u0639","\u0641\u0639\u0644 \u0627\u0644\u0623\u0645\u0631","\u0645\u0628\u062a\u062f\u0623 \u0648 \u0627\u0644\u062e\u0628\u0631"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 141
+    [judul] => ASATA KELAS 7
+    [mata_pelajaran] => IPA
+    [kelas_id] => 127
+    [deskripsi] => Evaluasi Akhir Semester
+    [tanggal_mulai] => 2025-05-28T08:00
+    [tanggal_selesai] => 2025-05-28T16:00
+    [durasi] => 480
+)
+
+
+Materi before filter: Array
+(
+)
+
+Materi after filter: Array
+(
+)
+
+Materi JSON: []
+
+POST Data for edit: Array
+(
+    [ujian_id] => 156
+    [judul] => ENGLISH CLASS 7
+    [mata_pelajaran] => Bahasa Inggris
+    [kelas_id] => 71
+    [deskripsi] => Evaluasi pembelajaran
+    [materi] => Array
+        (
+            [0] => simple present
+            [1] => simple past
+            [2] => VOCABULARY ABOUT SCHOOLING
+            [3] => greeting
+            [4] => conversation
+            [5] => simple present continous
+        )
+
+    [tanggal_mulai] => 2025-05-27T07:00
+    [tanggal_selesai] => 2025-05-30T15:30
+    [durasi] => 4830
+)
+
+
+Materi before filter: Array
+(
+    [0] => simple present
+    [1] => simple past
+    [2] => VOCABULARY ABOUT SCHOOLING
+    [3] => greeting
+    [4] => conversation
+    [5] => simple present continous
+)
+
+Materi after filter: Array
+(
+    [0] => simple present
+    [1] => simple past
+    [2] => VOCABULARY ABOUT SCHOOLING
+    [3] => greeting
+    [4] => conversation
+    [5] => simple present continous
+)
+
+Materi JSON: ["simple present","simple past","VOCABULARY ABOUT SCHOOLING","greeting","conversation","simple present continous"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 157
+    [judul] => ASAT BAHASA ARAB KELAS 8
+    [mata_pelajaran] => BAHASA ARAB
+    [kelas_id] => 68
+    [deskripsi] => Evaluasi Bahasa Arab Semester Genap
+    [tanggal_mulai] => 2025-05-27T07:00
+    [tanggal_selesai] => 2025-05-30T15:30
+    [durasi] => 4830
+)
+
+
+Materi before filter: Array
+(
+)
+
+Materi after filter: Array
+(
+)
+
+Materi JSON: []
+
+POST Data for edit: Array
+(
+    [ujian_id] => 158
+    [judul] => ENGLISH CLASS 8
+    [mata_pelajaran] => Bahasa Inggris
+    [kelas_id] => 73
+    [deskripsi] => Evaluasi pembelajaran
+    [tanggal_mulai] => 2025-05-27T07:00
+    [tanggal_selesai] => 2025-05-30T15:30
+    [durasi] => 4830
+)
+
+
+Materi before filter: Array
+(
+)
+
+Materi after filter: Array
+(
+)
+
+Materi JSON: []
+
+POST Data for edit: Array
+(
+    [ujian_id] => 140
+    [judul] => ASATA KELAS 8
+    [mata_pelajaran] => IPA
+    [kelas_id] => 128
+    [deskripsi] => Evaluasi Akhir Semester
+    [tanggal_mulai] => 2025-05-22T07:00
+    [tanggal_selesai] => 2025-05-30T16:00
+    [durasi] => 12060
+)
+
+
+Materi before filter: Array
+(
+)
+
+Materi after filter: Array
+(
+)
+
+Materi JSON: []
+
+POST Data for edit: Array
+(
+    [ujian_id] => 143
+    [judul] => ASATA PJOK KELAS 7
+    [mata_pelajaran] => PJOK
+    [kelas_id] => 129
+    [deskripsi] => Evaluasi Akhir Semester
+    [materi] => Array
+        (
+            [0] => Bola Voli
+            [1] => Kebugaran Jasmani
+            [2] => Pencak Silat
+            [3] => Pola Hidup Bersih dan Sehat
+        )
+
+    [tanggal_mulai] => 2025-05-27T07:00
+    [tanggal_selesai] => 2025-05-30T15:00
+    [durasi] => 4800
+)
+
+
+Materi before filter: Array
+(
+    [0] => Bola Voli
+    [1] => Kebugaran Jasmani
+    [2] => Pencak Silat
+    [3] => Pola Hidup Bersih dan Sehat
+)
+
+Materi after filter: Array
+(
+    [0] => Bola Voli
+    [1] => Kebugaran Jasmani
+    [2] => Pencak Silat
+    [3] => Pola Hidup Bersih dan Sehat
+)
+
+Materi JSON: ["Bola Voli","Kebugaran Jasmani","Pencak Silat","Pola Hidup Bersih dan Sehat"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 144
+    [judul] => ASATA PJOK KELAS 8
+    [mata_pelajaran] => PJOK
+    [kelas_id] => 130
+    [deskripsi] => Evaluasi Akhir Semester
+    [tanggal_mulai] => 2025-05-27T07:00
+    [tanggal_selesai] => 2025-05-30T15:00
+    [durasi] => 4800
+)
+
+
+Materi before filter: Array
+(
+)
+
+Materi after filter: Array
+(
+)
+
+Materi JSON: []
+
+POST Data for edit: Array
+(
+    [ujian_id] => 151
+    [judul] => ASATA AL ISLAM
+    [mata_pelajaran] => Fikih
+    [kelas_id] => 138
+    [deskripsi] => Evaluasi Akhir Semester
+    [materi] => Array
+        (
+            [0] => Isi Kandungan Surat Al Baqoroh ayat 3
+            [1] => Macam-Macam Tauhid
+            [2] => Perilaku Ikhlas
+            [3] => Rendah Hati
+            [4] => Sujud Syukur, sujud syahwi dan sujud Tilawah
+            [5] => Malaikat
+            [6] => Makna Sholat
+            [7] => Peradaban Bani Abasiyah
+        )
+
+    [tanggal_mulai] => 2025-05-26T08:00
+    [tanggal_selesai] => 2025-05-30T16:00
+    [durasi] => 6240
+)
+
+
+Materi before filter: Array
+(
+    [0] => Isi Kandungan Surat Al Baqoroh ayat 3
+    [1] => Macam-Macam Tauhid
+    [2] => Perilaku Ikhlas
+    [3] => Rendah Hati
+    [4] => Sujud Syukur, sujud syahwi dan sujud Tilawah
+    [5] => Malaikat
+    [6] => Makna Sholat
+    [7] => Peradaban Bani Abasiyah
+)
+
+Materi after filter: Array
+(
+    [0] => Isi Kandungan Surat Al Baqoroh ayat 3
+    [1] => Macam-Macam Tauhid
+    [2] => Perilaku Ikhlas
+    [3] => Rendah Hati
+    [4] => Sujud Syukur, sujud syahwi dan sujud Tilawah
+    [5] => Malaikat
+    [6] => Makna Sholat
+    [7] => Peradaban Bani Abasiyah
+)
+
+Materi JSON: ["Isi Kandungan Surat Al Baqoroh ayat 3","Macam-Macam Tauhid","Perilaku Ikhlas","Rendah Hati","Sujud Syukur, sujud syahwi dan sujud Tilawah","Malaikat","Makna Sholat","Peradaban Bani Abasiyah"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 152
+    [judul] => ASATA FIKIH 
+    [mata_pelajaran] => Fikih
+    [kelas_id] => 139
+    [deskripsi] => Evaluasi Akhir Semester
+    [materi] => Array
+        (
+            [0] => Surat At Taubah Ayat 122
+            [1] => Mengimani Rosul 
+            [2] => Nabi Ulul Azmi
+            [3] => Husnudzon
+            [4] => Haji dan Umroh
+            [5] => Kesultanan Turki Usmani
+        )
+
+    [tanggal_mulai] => 2025-05-26T08:00
+    [tanggal_selesai] => 2025-05-30T16:00
+    [durasi] => 6240
+)
+
+
+Materi before filter: Array
+(
+    [0] => Surat At Taubah Ayat 122
+    [1] => Mengimani Rosul 
+    [2] => Nabi Ulul Azmi
+    [3] => Husnudzon
+    [4] => Haji dan Umroh
+    [5] => Kesultanan Turki Usmani
+)
+
+Materi after filter: Array
+(
+    [0] => Surat At Taubah Ayat 122
+    [1] => Mengimani Rosul 
+    [2] => Nabi Ulul Azmi
+    [3] => Husnudzon
+    [4] => Haji dan Umroh
+    [5] => Kesultanan Turki Usmani
+)
+
+Materi JSON: ["Surat At Taubah Ayat 122","Mengimani Rosul ","Nabi Ulul Azmi","Husnudzon","Haji dan Umroh","Kesultanan Turki Usmani"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 159
+    [judul] => ASATA KELAS 7
+    [mata_pelajaran] => Matematika
+    [kelas_id] => 141
+    [deskripsi] => Evaluasi Akhir Semester
+    [materi] => Array
+        (
+            [0] => Pola Bilangan
+            [1] => Pecahan
+            [2] => Bangun datar dan rumus
+            [3] => Bangun Ruang dan Rumus
+        )
+
+    [tanggal_mulai] => 2025-05-28T08:00
+    [tanggal_selesai] => 2025-05-28T15:00
+    [durasi] => 420
+)
+
+
+Materi before filter: Array
+(
+    [0] => Pola Bilangan
+    [1] => Pecahan
+    [2] => Bangun datar dan rumus
+    [3] => Bangun Ruang dan Rumus
+)
+
+Materi after filter: Array
+(
+    [0] => Pola Bilangan
+    [1] => Pecahan
+    [2] => Bangun datar dan rumus
+    [3] => Bangun Ruang dan Rumus
+)
+
+Materi JSON: ["Pola Bilangan","Pecahan","Bangun datar dan rumus","Bangun Ruang dan Rumus"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 103
+    [judul] => ASAT EKONOMI KELAS X
+    [mata_pelajaran] => Ekonomi
+    [kelas_id] => 107
+    [deskripsi] => -
+    [materi] => Array
+        (
+            [0] => Sistem Pembayaran Dan Alat Pembayaran
+            [1] => Lembaga Jasa Keuangan Dalam Perekonamian
+        )
+
+    [tanggal_mulai] => 2025-05-28T12:35
+    [tanggal_selesai] => 2025-05-28T14:00
+    [durasi] => 85
+)
+
+
+Materi before filter: Array
+(
+    [0] => Sistem Pembayaran Dan Alat Pembayaran
+    [1] => Lembaga Jasa Keuangan Dalam Perekonamian
+)
+
+Materi after filter: Array
+(
+    [0] => Sistem Pembayaran Dan Alat Pembayaran
+    [1] => Lembaga Jasa Keuangan Dalam Perekonamian
+)
+
+Materi JSON: ["Sistem Pembayaran Dan Alat Pembayaran","Lembaga Jasa Keuangan Dalam Perekonamian"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 163
+    [judul] => ENGLISH QUIZ 2
+    [mata_pelajaran] => Bahasa Inggris
+    [kelas_id] => 84
+    [deskripsi] => Belajar asyik dan menyenangkan
+    [materi] => Array
+        (
+            [0] => VOCABULARY ABOUT SCHOOLING
+            [1] => simple present
+            [2] => simple past
+            [3] => simple continous
+            [4] => Materi Dasar
+        )
+
+    [tanggal_mulai] => 2025-05-31T07:00
+    [tanggal_selesai] => 2025-05-31T16:00
+    [durasi] => 540
+)
+
+
+Materi before filter: Array
+(
+    [0] => VOCABULARY ABOUT SCHOOLING
+    [1] => simple present
+    [2] => simple past
+    [3] => simple continous
+    [4] => Materi Dasar
+)
+
+Materi after filter: Array
+(
+    [0] => VOCABULARY ABOUT SCHOOLING
+    [1] => simple present
+    [2] => simple past
+    [3] => simple continous
+    [4] => Materi Dasar
+)
+
+Materi JSON: ["VOCABULARY ABOUT SCHOOLING","simple present","simple past","simple continous","Materi Dasar"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 99
+    [judul] => ASAT BAHASA INGGRIS 2025 (FASE E)
+    [mata_pelajaran] => Bahasa Inggris
+    [kelas_id] => 102
+    [deskripsi] => KERJAKAN DENGAN TELITI
+    [materi] => Array
+        (
+            [0] => Analytical Exposition
+            [1] => Giving Opinions and Thought
+            [2] => Recount
+            [3] => Making an Appointment
+            [4] => Report:News
+            [5] => Giving Good News and Bad News
+            [6] => Song Lyrics
+            [7] => Inviting and Offer
+        )
+
+    [tanggal_mulai] => 2025-06-02T13:00
+    [tanggal_selesai] => 2025-06-02T14:00
+    [durasi] => 60
+)
+
+
+Materi before filter: Array
+(
+    [0] => Analytical Exposition
+    [1] => Giving Opinions and Thought
+    [2] => Recount
+    [3] => Making an Appointment
+    [4] => Report:News
+    [5] => Giving Good News and Bad News
+    [6] => Song Lyrics
+    [7] => Inviting and Offer
+)
+
+Materi after filter: Array
+(
+    [0] => Analytical Exposition
+    [1] => Giving Opinions and Thought
+    [2] => Recount
+    [3] => Making an Appointment
+    [4] => Report:News
+    [5] => Giving Good News and Bad News
+    [6] => Song Lyrics
+    [7] => Inviting and Offer
+)
+
+Materi JSON: ["Analytical Exposition","Giving Opinions and Thought","Recount","Making an Appointment","Report:News","Giving Good News and Bad News","Song Lyrics","Inviting and Offer"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 116
+    [judul] => ESAT SENI BUDAYA FASE E
+    [mata_pelajaran] => Seni Budaya
+    [kelas_id] => 110
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Seni Rupa Dua Dimensi
+            [1] => Seni Rupa Tiga Dimensi
+        )
+
+    [tanggal_mulai] => 2025-06-02T13:31
+    [tanggal_selesai] => 2025-06-02T15:00
+    [durasi] => 89
+)
+
+
+Materi before filter: Array
+(
+    [0] => Seni Rupa Dua Dimensi
+    [1] => Seni Rupa Tiga Dimensi
+)
+
+Materi after filter: Array
+(
+    [0] => Seni Rupa Dua Dimensi
+    [1] => Seni Rupa Tiga Dimensi
+)
+
+Materi JSON: ["Seni Rupa Dua Dimensi","Seni Rupa Tiga Dimensi"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 116
+    [judul] => ESAT SENI BUDAYA FASE E
+    [mata_pelajaran] => Seni Budaya
+    [kelas_id] => 110
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Seni Rupa Dua Dimensi
+            [1] => Seni Rupa Tiga Dimensi
+        )
+
+    [tanggal_mulai] => 2025-06-02T13:31
+    [tanggal_selesai] => 2025-06-02T15:00
+    [durasi] => 89
+)
+
+
+Materi before filter: Array
+(
+    [0] => Seni Rupa Dua Dimensi
+    [1] => Seni Rupa Tiga Dimensi
+)
+
+Materi after filter: Array
+(
+    [0] => Seni Rupa Dua Dimensi
+    [1] => Seni Rupa Tiga Dimensi
+)
+
+Materi JSON: ["Seni Rupa Dua Dimensi","Seni Rupa Tiga Dimensi"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 99
+    [judul] => ASAT BAHASA INGGRIS 2025 (FASE E)
+    [mata_pelajaran] => Bahasa Inggris
+    [kelas_id] => 102
+    [deskripsi] => KERJAKAN DENGAN TELITI
+    [materi] => Array
+        (
+            [0] => Analytical Exposition
+            [1] => Giving Opinions and Thought
+            [2] => Recount
+            [3] => Making an Appointment
+            [4] => Report:News
+            [5] => Giving Good News and Bad News
+            [6] => Song Lyrics
+            [7] => Inviting and Offer
+        )
+
+    [tanggal_mulai] => 2025-06-02T12:30
+    [tanggal_selesai] => 2025-06-02T14:00
+    [durasi] => 90
+)
+
+
+Materi before filter: Array
+(
+    [0] => Analytical Exposition
+    [1] => Giving Opinions and Thought
+    [2] => Recount
+    [3] => Making an Appointment
+    [4] => Report:News
+    [5] => Giving Good News and Bad News
+    [6] => Song Lyrics
+    [7] => Inviting and Offer
+)
+
+Materi after filter: Array
+(
+    [0] => Analytical Exposition
+    [1] => Giving Opinions and Thought
+    [2] => Recount
+    [3] => Making an Appointment
+    [4] => Report:News
+    [5] => Giving Good News and Bad News
+    [6] => Song Lyrics
+    [7] => Inviting and Offer
+)
+
+Materi JSON: ["Analytical Exposition","Giving Opinions and Thought","Recount","Making an Appointment","Report:News","Giving Good News and Bad News","Song Lyrics","Inviting and Offer"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 99
+    [judul] => ASAT BAHASA INGGRIS 2025 (FASE E)
+    [mata_pelajaran] => Bahasa Inggris
+    [kelas_id] => 102
+    [deskripsi] => KERJAKAN DENGAN TELITI
+    [materi] => Array
+        (
+            [0] => Analytical Exposition
+            [1] => Giving Opinions and Thought
+            [2] => Recount
+            [3] => Making an Appointment
+            [4] => Report:News
+            [5] => Giving Good News and Bad News
+            [6] => Song Lyrics
+            [7] => Inviting and Offer
+        )
+
+    [tanggal_mulai] => 2025-06-02T12:30
+    [tanggal_selesai] => 2025-06-02T14:00
+    [durasi] => 90
+)
+
+
+Materi before filter: Array
+(
+    [0] => Analytical Exposition
+    [1] => Giving Opinions and Thought
+    [2] => Recount
+    [3] => Making an Appointment
+    [4] => Report:News
+    [5] => Giving Good News and Bad News
+    [6] => Song Lyrics
+    [7] => Inviting and Offer
+)
+
+Materi after filter: Array
+(
+    [0] => Analytical Exposition
+    [1] => Giving Opinions and Thought
+    [2] => Recount
+    [3] => Making an Appointment
+    [4] => Report:News
+    [5] => Giving Good News and Bad News
+    [6] => Song Lyrics
+    [7] => Inviting and Offer
+)
+
+Materi JSON: ["Analytical Exposition","Giving Opinions and Thought","Recount","Making an Appointment","Report:News","Giving Good News and Bad News","Song Lyrics","Inviting and Offer"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 116
+    [judul] => ESAT SENI BUDAYA FASE E
+    [mata_pelajaran] => Seni Budaya
+    [kelas_id] => 110
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Seni Rupa Dua Dimensi
+            [1] => Seni Rupa Tiga Dimensi
+        )
+
+    [tanggal_mulai] => 2025-06-02T13:06
+    [tanggal_selesai] => 2025-06-02T15:00
+    [durasi] => 114
+)
+
+
+Materi before filter: Array
+(
+    [0] => Seni Rupa Dua Dimensi
+    [1] => Seni Rupa Tiga Dimensi
+)
+
+Materi after filter: Array
+(
+    [0] => Seni Rupa Dua Dimensi
+    [1] => Seni Rupa Tiga Dimensi
+)
+
+Materi JSON: ["Seni Rupa Dua Dimensi","Seni Rupa Tiga Dimensi"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 117
+    [judul] => ESAT SENI BUDAYA FASE F
+    [mata_pelajaran] => Seni Budaya
+    [kelas_id] => 111
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Apresiasi Seni Rupa Dua Dimensi
+            [1] => Apresiasi Seni Rupa Tiga Dimensi
+        )
+
+    [tanggal_mulai] => 2025-06-03T08:15
+    [tanggal_selesai] => 2025-06-03T09:45
+    [durasi] => 90
+)
+
+
+Materi before filter: Array
+(
+    [0] => Apresiasi Seni Rupa Dua Dimensi
+    [1] => Apresiasi Seni Rupa Tiga Dimensi
+)
+
+Materi after filter: Array
+(
+    [0] => Apresiasi Seni Rupa Dua Dimensi
+    [1] => Apresiasi Seni Rupa Tiga Dimensi
+)
+
+Materi JSON: ["Apresiasi Seni Rupa Dua Dimensi","Apresiasi Seni Rupa Tiga Dimensi"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 117
+    [judul] => ESAT SENI BUDAYA FASE F
+    [mata_pelajaran] => Seni Budaya
+    [kelas_id] => 111
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Apresiasi Seni Rupa Dua Dimensi
+            [1] => Apresiasi Seni Rupa Tiga Dimensi
+        )
+
+    [tanggal_mulai] => 2025-06-03T08:15
+    [tanggal_selesai] => 2025-06-03T09:45
+    [durasi] => 90
+)
+
+
+Materi before filter: Array
+(
+    [0] => Apresiasi Seni Rupa Dua Dimensi
+    [1] => Apresiasi Seni Rupa Tiga Dimensi
+)
+
+Materi after filter: Array
+(
+    [0] => Apresiasi Seni Rupa Dua Dimensi
+    [1] => Apresiasi Seni Rupa Tiga Dimensi
+)
+
+Materi JSON: ["Apresiasi Seni Rupa Dua Dimensi","Apresiasi Seni Rupa Tiga Dimensi"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 118
+    [judul] => ASAT BAHASA INDONESIA KLS XI
+    [mata_pelajaran] => Bahasa Indonesia
+    [kelas_id] => 106
+    [deskripsi] => kerjakan dengan memilih jawaban yang benar
+    [materi] => Array
+        (
+            [0] => reviuf fim, cerita
+            [1] => teks pidato
+            [2] => teks ceramah
+            [3] => teks surat lamaran pekerjaan
+        )
+
+    [tanggal_mulai] => 2025-06-03T08:30
+    [tanggal_selesai] => 2025-06-03T10:00
+    [durasi] => 90
+)
+
+
+Materi before filter: Array
+(
+    [0] => reviuf fim, cerita
+    [1] => teks pidato
+    [2] => teks ceramah
+    [3] => teks surat lamaran pekerjaan
+)
+
+Materi after filter: Array
+(
+    [0] => reviuf fim, cerita
+    [1] => teks pidato
+    [2] => teks ceramah
+    [3] => teks surat lamaran pekerjaan
+)
+
+Materi JSON: ["reviuf fim, cerita","teks pidato","teks ceramah","teks surat lamaran pekerjaan"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 88
+    [judul] => ASAT GEOGRAFI KELAS XI
+    [mata_pelajaran] => Geografi
+    [kelas_id] => 91
+    [deskripsi] => Asesmen Sumatif Akhir Tahun Geografi Kelas XI
+    [materi] => Array
+        (
+            [0] => Posisi strategis dan maritim Indonesia
+            [1] => Flora dan Fauna di Indonesia dan dunia
+            [2] => Dinamika Penduduk
+            [3] => Mitigasi Bencana
+        )
+
+    [tanggal_mulai] => 2025-06-03T09:15
+    [tanggal_selesai] => 2025-06-03T10:30
+    [durasi] => 75
+)
+
+
+Materi before filter: Array
+(
+    [0] => Posisi strategis dan maritim Indonesia
+    [1] => Flora dan Fauna di Indonesia dan dunia
+    [2] => Dinamika Penduduk
+    [3] => Mitigasi Bencana
+)
+
+Materi after filter: Array
+(
+    [0] => Posisi strategis dan maritim Indonesia
+    [1] => Flora dan Fauna di Indonesia dan dunia
+    [2] => Dinamika Penduduk
+    [3] => Mitigasi Bencana
+)
+
+Materi JSON: ["Posisi strategis dan maritim Indonesia","Flora dan Fauna di Indonesia dan dunia","Dinamika Penduduk","Mitigasi Bencana"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 88
+    [judul] => ASAT GEOGRAFI KELAS XI
+    [mata_pelajaran] => Geografi
+    [kelas_id] => 91
+    [deskripsi] => Asesmen Sumatif Akhir Tahun Geografi Kelas XI
+    [materi] => Array
+        (
+            [0] => Posisi strategis dan maritim Indonesia
+            [1] => Flora dan Fauna di Indonesia dan dunia
+            [2] => Dinamika Penduduk
+            [3] => Mitigasi Bencana
+        )
+
+    [tanggal_mulai] => 2025-06-03T09:15
+    [tanggal_selesai] => 2025-06-03T10:45
+    [durasi] => 90
+)
+
+
+Materi before filter: Array
+(
+    [0] => Posisi strategis dan maritim Indonesia
+    [1] => Flora dan Fauna di Indonesia dan dunia
+    [2] => Dinamika Penduduk
+    [3] => Mitigasi Bencana
+)
+
+Materi after filter: Array
+(
+    [0] => Posisi strategis dan maritim Indonesia
+    [1] => Flora dan Fauna di Indonesia dan dunia
+    [2] => Dinamika Penduduk
+    [3] => Mitigasi Bencana
+)
+
+Materi JSON: ["Posisi strategis dan maritim Indonesia","Flora dan Fauna di Indonesia dan dunia","Dinamika Penduduk","Mitigasi Bencana"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 102
+    [judul] => ASAT Bahasa Indonesia Kls X
+    [mata_pelajaran] => Bahasa Indonesia
+    [kelas_id] => 105
+    [deskripsi] => 
+    [tanggal_mulai] => 2025-06-03T09:15
+    [tanggal_selesai] => 2025-06-03T10:45
+    [durasi] => 90
+)
+
+
+Materi before filter: Array
+(
+)
+
+Materi after filter: Array
+(
+)
+
+Materi JSON: []
+
+POST Data for edit: Array
+(
+    [ujian_id] => 119
+    [judul] => ASAT BAHASA INGGRIS 2025 (FASE F)
+    [mata_pelajaran] => Bahasa Inggris
+    [kelas_id] => 115
+    [deskripsi] => -
+    [materi] => Array
+        (
+            [0] => Hortatory Exposition
+            [1] => Anger and Annoying
+            [2] => Exposition Text
+            [3] => Showing Sympathy
+            [4] => Adversitement
+            [5] => Announcement
+            [6] => Feeling Embrassed
+            [7] => Songs
+            [8] => Like and Dislike
+            [9] => Wish , If only and As If
+        )
+
+    [tanggal_mulai] => 2025-06-04T08:01
+    [tanggal_selesai] => 2025-06-04T11:00
+    [durasi] => 179
+)
+
+
+Materi before filter: Array
+(
+    [0] => Hortatory Exposition
+    [1] => Anger and Annoying
+    [2] => Exposition Text
+    [3] => Showing Sympathy
+    [4] => Adversitement
+    [5] => Announcement
+    [6] => Feeling Embrassed
+    [7] => Songs
+    [8] => Like and Dislike
+    [9] => Wish , If only and As If
+)
+
+Materi after filter: Array
+(
+    [0] => Hortatory Exposition
+    [1] => Anger and Annoying
+    [2] => Exposition Text
+    [3] => Showing Sympathy
+    [4] => Adversitement
+    [5] => Announcement
+    [6] => Feeling Embrassed
+    [7] => Songs
+    [8] => Like and Dislike
+    [9] => Wish , If only and As If
+)
+
+Materi JSON: ["Hortatory Exposition","Anger and Annoying","Exposition Text","Showing Sympathy","Adversitement","Announcement","Feeling Embrassed","Songs","Like and Dislike","Wish , If only and As If"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 99
+    [judul] => ASAT BAHASA INGGRIS 2025 (FASE E)
+    [mata_pelajaran] => Bahasa Inggris
+    [kelas_id] => 102
+    [deskripsi] => KERJAKAN DENGAN TELITI
+    [materi] => Array
+        (
+            [0] => Analytical Exposition
+            [1] => Giving Opinions and Thought
+            [2] => Recount
+            [3] => Making an Appointment
+            [4] => Report:News
+            [5] => Giving Good News and Bad News
+            [6] => Song Lyrics
+            [7] => Inviting and Offer
+        )
+
+    [tanggal_mulai] => 2025-06-04T08:00
+    [tanggal_selesai] => 2025-06-04T11:00
+    [durasi] => 180
+)
+
+
+Materi before filter: Array
+(
+    [0] => Analytical Exposition
+    [1] => Giving Opinions and Thought
+    [2] => Recount
+    [3] => Making an Appointment
+    [4] => Report:News
+    [5] => Giving Good News and Bad News
+    [6] => Song Lyrics
+    [7] => Inviting and Offer
+)
+
+Materi after filter: Array
+(
+    [0] => Analytical Exposition
+    [1] => Giving Opinions and Thought
+    [2] => Recount
+    [3] => Making an Appointment
+    [4] => Report:News
+    [5] => Giving Good News and Bad News
+    [6] => Song Lyrics
+    [7] => Inviting and Offer
+)
+
+Materi JSON: ["Analytical Exposition","Giving Opinions and Thought","Recount","Making an Appointment","Report:News","Giving Good News and Bad News","Song Lyrics","Inviting and Offer"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 114
+    [judul] => ASAT FISIKA X
+    [mata_pelajaran] => Fisika
+    [kelas_id] => 114
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => ENERGI
+        )
+
+    [tanggal_mulai] => 2025-06-03T12:30
+    [tanggal_selesai] => 2025-06-03T13:30
+    [durasi] => 60
+)
+
+
+Materi before filter: Array
+(
+    [0] => ENERGI
+)
+
+Materi after filter: Array
+(
+    [0] => ENERGI
+)
+
+Materi JSON: ["ENERGI"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 167
+    [judul] => REMIDI ASAT BAHASA INGGRIS 2025 (FASE F)
+    [mata_pelajaran] => Bahasa Inggris
+    [kelas_id] => 115
+    [deskripsi] => -
+    [tanggal_mulai] => 2025-06-04T08:01
+    [tanggal_selesai] => 2025-06-04T11:00
+    [durasi] => 179
+)
+
+
+Materi before filter: Array
+(
+)
+
+Materi after filter: Array
+(
+)
+
+Materi JSON: []
+
+POST Data for edit: Array
+(
+    [ujian_id] => 168
+    [judul] => REMIDI ASAT BAHASA INGGRIS 2025 (FASE E) 
+    [mata_pelajaran] => Bahasa Inggris
+    [kelas_id] => 102
+    [deskripsi] => KERJAKAN DENGAN TELITI
+    [tanggal_mulai] => 2025-06-04T08:00
+    [tanggal_selesai] => 2025-06-04T11:00
+    [durasi] => 180
+)
+
+
+Materi before filter: Array
+(
+)
+
+Materi after filter: Array
+(
+)
+
+Materi JSON: []
+
+POST Data for edit: Array
+(
+    [ujian_id] => 168
+    [judul] => REMIDI ASAT BAHASA INGGRIS 2025 (FASE E)
+    [mata_pelajaran] => Bahasa Inggris
+    [kelas_id] => 102
+    [deskripsi] => KERJAKAN DENGAN TELITI
+    [tanggal_mulai] => 2025-06-04T08:00
+    [tanggal_selesai] => 2025-06-04T08:40
+    [durasi] => 40
+)
+
+
+Materi before filter: Array
+(
+)
+
+Materi after filter: Array
+(
+)
+
+Materi JSON: []
+
+POST Data for edit: Array
+(
+    [ujian_id] => 167
+    [judul] => REMIDI ASAT BAHASA INGGRIS 2025 (FASE F)
+    [mata_pelajaran] => Bahasa Inggris
+    [kelas_id] => 115
+    [deskripsi] => -
+    [tanggal_mulai] => 2025-06-04T08:01
+    [tanggal_selesai] => 2025-06-04T08:40
+    [durasi] => 39
+)
+
+
+Materi before filter: Array
+(
+)
+
+Materi after filter: Array
+(
+)
+
+Materi JSON: []
+
+POST Data for edit: Array
+(
+    [ujian_id] => 167
+    [judul] => REMIDI ASAT BAHASA INGGRIS 2025 (FASE F)
+    [mata_pelajaran] => Bahasa Inggris
+    [kelas_id] => 115
+    [deskripsi] => -
+    [tanggal_mulai] => 2025-06-04T08:00
+    [tanggal_selesai] => 2025-06-04T08:40
+    [durasi] => 40
+)
+
+
+Materi before filter: Array
+(
+)
+
+Materi after filter: Array
+(
+)
+
+Materi JSON: []
+
+POST Data for edit: Array
+(
+    [ujian_id] => 119
+    [judul] => ASAT BAHASA INGGRIS 2025 (FASE F)
+    [mata_pelajaran] => Bahasa Inggris
+    [kelas_id] => 115
+    [deskripsi] => -
+    [materi] => Array
+        (
+            [0] => Hortatory Exposition
+            [1] => Anger and Annoying
+            [2] => Exposition Text
+            [3] => Showing Sympathy
+            [4] => Adversitement
+            [5] => Announcement
+            [6] => Feeling Embrassed
+            [7] => Songs
+            [8] => Like and Dislike
+            [9] => Wish , If only and As If
+        )
+
+    [tanggal_mulai] => 2025-06-10T09:20
+    [tanggal_selesai] => 2025-06-10T11:00
+    [durasi] => 100
+)
+
+
+Materi before filter: Array
+(
+    [0] => Hortatory Exposition
+    [1] => Anger and Annoying
+    [2] => Exposition Text
+    [3] => Showing Sympathy
+    [4] => Adversitement
+    [5] => Announcement
+    [6] => Feeling Embrassed
+    [7] => Songs
+    [8] => Like and Dislike
+    [9] => Wish , If only and As If
+)
+
+Materi after filter: Array
+(
+    [0] => Hortatory Exposition
+    [1] => Anger and Annoying
+    [2] => Exposition Text
+    [3] => Showing Sympathy
+    [4] => Adversitement
+    [5] => Announcement
+    [6] => Feeling Embrassed
+    [7] => Songs
+    [8] => Like and Dislike
+    [9] => Wish , If only and As If
+)
+
+Materi JSON: ["Hortatory Exposition","Anger and Annoying","Exposition Text","Showing Sympathy","Adversitement","Announcement","Feeling Embrassed","Songs","Like and Dislike","Wish , If only and As If"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 123
+    [judul] => ASAT SEJARAH KELAS XI/F
+    [mata_pelajaran] => Sejarah
+    [kelas_id] => 116
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Tirani Matahari Terbit
+            [1] => Indonesia Merdeka
+            [2] => Revolusi Menegakkan Panji – Panji NKRI
+        )
+
+    [tanggal_mulai] => 2025-06-10T10:15
+    [tanggal_selesai] => 2025-06-10T12:00
+    [durasi] => 105
+)
+
+
+Materi before filter: Array
+(
+    [0] => Tirani Matahari Terbit
+    [1] => Indonesia Merdeka
+    [2] => Revolusi Menegakkan Panji – Panji NKRI
+)
+
+Materi after filter: Array
+(
+    [0] => Tirani Matahari Terbit
+    [1] => Indonesia Merdeka
+    [2] => Revolusi Menegakkan Panji – Panji NKRI
+)
+
+Materi JSON: ["Tirani Matahari Terbit","Indonesia Merdeka","Revolusi Menegakkan Panji \u2013 Panji NKRI"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 122
+    [judul] => ASAT MATEMATIKA KELAS XI
+    [mata_pelajaran] => Matematika
+    [kelas_id] => 93
+    [deskripsi] => 
+    [tanggal_mulai] => 2025-06-10T10:24
+    [tanggal_selesai] => 2025-06-10T11:45
+    [durasi] => 81
+)
+
+
+Materi before filter: Array
+(
+)
+
+Materi after filter: Array
+(
+)
+
+Materi JSON: []
+
+POST Data for edit: Array
+(
+    [ujian_id] => 117
+    [judul] => ESAT SENI BUDAYA FASE F
+    [mata_pelajaran] => Seni Budaya
+    [kelas_id] => 111
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => Apresiasi Seni Rupa Dua Dimensi
+            [1] => Apresiasi Seni Rupa Tiga Dimensi
+        )
+
+    [tanggal_mulai] => 2025-06-10T12:15
+    [tanggal_selesai] => 2025-06-10T14:00
+    [durasi] => 105
+)
+
+
+Materi before filter: Array
+(
+    [0] => Apresiasi Seni Rupa Dua Dimensi
+    [1] => Apresiasi Seni Rupa Tiga Dimensi
+)
+
+Materi after filter: Array
+(
+    [0] => Apresiasi Seni Rupa Dua Dimensi
+    [1] => Apresiasi Seni Rupa Tiga Dimensi
+)
+
+Materi JSON: ["Apresiasi Seni Rupa Dua Dimensi","Apresiasi Seni Rupa Tiga Dimensi"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 169
+    [judul] => Exam 1
+    [mata_pelajaran] => Bahasa Inggris
+    [kelas_id] => 143
+    [deskripsi] => Evaluation
+    [materi] => Array
+        (
+            [0] => animal
+            [1] => flower
+            [2] => zoo
+            [3] => greeting
+        )
+
+    [tanggal_mulai] => 2025-06-11T08:24
+    [tanggal_selesai] => 2025-06-11T11:24
+    [durasi] => 180
+)
+
+
+Materi before filter: Array
+(
+    [0] => animal
+    [1] => flower
+    [2] => zoo
+    [3] => greeting
+)
+
+Materi after filter: Array
+(
+    [0] => animal
+    [1] => flower
+    [2] => zoo
+    [3] => greeting
+)
+
+Materi JSON: ["animal","flower","zoo","greeting"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 174
+    [judul] => Exam TWO
+    [mata_pelajaran] => Bahasa Inggris
+    [kelas_id] => 84
+    [deskripsi] => EVALUATION
+    [materi] => Array
+        (
+            [0] => animal
+        )
+
+    [tanggal_mulai] => 2025-06-11T08:32
+    [tanggal_selesai] => 2025-06-11T12:32
+    [durasi] => 240
+)
+
+
+Materi before filter: Array
+(
+    [0] => animal
+)
+
+Materi after filter: Array
+(
+    [0] => animal
+)
+
+Materi JSON: ["animal"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 175
+    [judul] => Exam THREE
+    [mata_pelajaran] => Bahasa Inggris
+    [kelas_id] => 84
+    [deskripsi] => EVALUATION
+    [materi] => Array
+        (
+            [0] => animal
+        )
+
+    [tanggal_mulai] => 2025-06-11T08:32
+    [tanggal_selesai] => 2025-06-11T12:32
+    [durasi] => 240
+)
+
+
+Materi before filter: Array
+(
+    [0] => animal
+)
+
+Materi after filter: Array
+(
+    [0] => animal
+)
+
+Materi JSON: ["animal"]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 124
+    [judul] => ASAT 2025 Pkn klas XI
+    [mata_pelajaran] => PKN
+    [kelas_id] => 118
+    [deskripsi] => 
+    [materi] => Array
+        (
+            [0] => bhinneka tunggal ika 
+        )
+
+    [tanggal_mulai] => 2025-06-11T11:08
+    [tanggal_selesai] => 2025-06-11T12:00
+    [durasi] => 52
+)
+
+
+Materi before filter: Array
+(
+    [0] => bhinneka tunggal ika 
+)
+
+Materi after filter: Array
+(
+    [0] => bhinneka tunggal ika 
+)
+
+Materi JSON: ["bhinneka tunggal ika "]
+
+POST Data for edit: Array
+(
+    [ujian_id] => 131
+    [judul] => ASAT PJOK KELAS XI
+    [mata_pelajaran] => PJOK
+    [kelas_id] => 104
+    [deskripsi] => TENIS MEJArnlempar lembingrnsenam iramarnkebugaran jasmani
+    [materi] => Array
+        (
+            [0] => tenis meja
+            [1] => lempar lembing
+            [2] => senam irama
+            [3] => kebugaran jasmani
+        )
+
+    [tanggal_mulai] => 2025-06-11T11:35
+    [tanggal_selesai] => 2025-06-11T12:45
+    [durasi] => 70
+)
+
+
+Materi before filter: Array
+(
+    [0] => tenis meja
+    [1] => lempar lembing
+    [2] => senam irama
+    [3] => kebugaran jasmani
+)
+
+Materi after filter: Array
+(
+    [0] => tenis meja
+    [1] => lempar lembing
+    [2] => senam irama
+    [3] => kebugaran jasmani
+)
+
+Materi JSON: ["tenis meja","lempar lembing","senam irama","kebugaran jasmani"]
+

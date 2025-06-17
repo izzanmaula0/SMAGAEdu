@@ -1,0 +1,283 @@
+    <!-- Modal Fitur Baru dengan Slide -->
+    <div class="modal fade" id="updateFeatureModal" tabindex="-1" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content rounded-4 shadow">
+                <div class="carousel-indicators position-relative mt-3" style="margin-bottom: 0;">
+                    <button type="button" data-bs-target="#featureCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                    <button type="button" data-bs-target="#featureCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                </div>
+
+                <!-- Carousel Content -->
+                <div id="featureCarousel" class="carousel slide" data-bs-interval="false">
+                    <div class="carousel-inner">
+                        <!-- Slide 1 -->
+                        <div class="carousel-item active p-4 pt-0 pb-0">
+                            <div class="modal-body p-4 pt-0 pb-0">
+                                <div class="border rounded-4 position-relative" style="height: 120px; overflow: hidden;">
+                                    <img src="feature/update.png" alt="Update Feature Header" style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0; left: 0; z-index: 0;">
+
+                                </div>
+                                <div class="position-absolute" style="top: 10px; right: 10px;">
+                                    <span class="badge text-bg-warning d-flex align-items-center gap-1 px-2 py-1"
+                                        style="background-color: #FFD700 !important; border-radius: 8px; font-size: 10px;">
+                                        <i class="bi bi-gem"></i>
+                                        <span>Fitur Baru</span>
+                                    </span>
+                                </div>
+                                <h4 class="fw-bold mt-4" style="font-size: 1.8rem;">Duplikasi Ujian Anda</h4>
+                                <p class="p-0 m-0 text-muted" style="font-size: 12px;">Duplikasikan ujian Anda beserta identitas serta soal yang telah Anda buat pada ujian sebelumnya, sesuai yang Anda inginkan.</p>
+
+                                <div class="alert border bg-light mb-1 mt-5" style="border-radius: 15px;">
+                                    <div class="d-flex">
+                                        <i class="bi bi-exclamation-circle-fill fs-4 me-3" style="font-size: 30px; color:rgb(219, 106, 68)"></i>
+                                        <div>
+                                            <p class="p-0 m-0 fw-bold" style="font-size: 14px;">Berlaku Hanya Pada Ujian Baru</p>
+                                            <p class="p-0 m-0 text-muted" style="font-size: 12px;">Duplikasi ujian dapat dilakukan jika ujian Anda belum di ujikan, dan siswa belum melaksanakan ujian Anda. Hal ini disebabkan untuk menghindari konflik antar data.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Slide 2 -->
+                        <div class="carousel-item p-4 pt-0 pb-0">
+                            <div class="modal-body p-4 pt-0 pb-0">
+                                <div class="border rounded-4 position-relative" style="height: 120px; overflow: hidden;">
+                                    <img src="feature/edit.png" alt="Update Feature Header" style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0; left: 0; z-index: 0;">
+                                </div>
+
+                                <div class="position-absolute" style="top: 10px; right: 10px;">
+                                    <span class="badge text-bg-warning d-flex align-items-center gap-1 px-2 py-1"
+                                        style="background-color: #FFD700 !important; border-radius: 8px; font-size: 10px;">
+                                        <i class="bi bi-gem"></i>
+                                        <span>Fitur Baru</span>
+                                    </span>
+                                </div>
+
+                                <h4 class="fw-bold mt-4" style="font-size: 1.8rem;">Edit Identitas Ujian Anda</h4>
+                                <p class="p-0 m-0 text-muted" style="font-size: 12px;">Kini Anda dapat mengedit identitas Ujian Anda seperti judul ujian, materi ujian, serta waktu ujian.</p>
+
+                                <div class="alert border bg-light mb-1 mt-5" style="border-radius: 15px;">
+                                    <div class="d-flex">
+                                        <i class="bi bi-exclamation-circle-fill fs-4 me-3" style="font-size: 30px; color:rgb(219, 106, 68)"></i>
+                                        <div>
+                                            <p class="p-0 m-0 fw-bold" style="font-size: 14px;">Berlaku Hanya Pada Ujian Baru</p>
+                                            <p class="p-0 m-0 text-muted" style="font-size: 12px;">Edit ujian dapat dilakukan jika ujian Anda belum di ujikan, dan siswa belum melaksanakan ujian Anda. Hal ini disebabkan untuk menghindari konflik antar data.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Carousel Controls -->
+                    <button class="carousel-control-prev" type="button" data-bs-target="#featureCarousel" data-bs-slide="prev" style="width: 10%;">
+                        <span class="carousel-control-prev-icon" aria-hidden="true" style="filter: invert(25%)"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#featureCarousel" data-bs-slide="next" style="width: 10%;">
+                        <span class="carousel-control-next-icon" aria-hidden="true" style="filter: invert(25%)"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
+
+                <!-- Footer with Checkbox and Button -->
+                <div class="modal-footer border-0 d-block">
+                    <div class="form-check mb-3">
+                        <input class="form-check-input" type="checkbox" id="dontShowUpdateModal">
+                        <label class="form-check-label text-muted" for="dontShowUpdateModal" style="font-size: 14px;">
+                            Jangan tampilkan pesan ini lagi
+                        </label>
+                    </div>
+                    <button type="button" class="btn w-100" id="gotItButton" style="background-color: rgb(218, 119, 86); color: white; border-radius:15px;" data-bs-dismiss="modal">Saya Mengerti</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Script for Update Feature Modal -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Check if user has already chosen to hide the modal
+            const hideUpdateModal = localStorage.getItem('hideUpdateModal');
+
+            if (hideUpdateModal !== 'true') {
+                // Show the modal
+                const updateFeatureModal = new bootstrap.Modal(document.getElementById('updateFeatureModal'));
+                updateFeatureModal.show();
+
+                // Handle the "don't show again" checkbox
+                const dontShowCheckbox = document.getElementById('dontShowUpdateModal');
+                const gotItButton = document.getElementById('gotItButton');
+
+                gotItButton.addEventListener('click', function() {
+                    if (dontShowCheckbox.checked) {
+                        localStorage.setItem('hideUpdateModal', 'true');
+                    }
+                });
+
+                // Enable swipe functionality for mobile
+                const carousel = document.getElementById('featureCarousel');
+                let touchstartX = 0;
+                let touchendX = 0;
+
+                carousel.addEventListener('touchstart', function(e) {
+                    touchstartX = e.changedTouches[0].screenX;
+                }, false);
+
+                carousel.addEventListener('touchend', function(e) {
+                    touchendX = e.changedTouches[0].screenX;
+                    handleSwipe();
+                }, false);
+
+                function handleSwipe() {
+                    if (touchendX < touchstartX) {
+                        // Swipe left, go to next slide
+                        bootstrap.Carousel.getInstance(carousel).next();
+                    }
+                    if (touchendX > touchstartX) {
+                        // Swipe right, go to previous slide
+                        bootstrap.Carousel.getInstance(carousel).prev();
+                    }
+                }
+            }
+        });
+    </script>
+
+
+
+        <!-- Welcome Modal -->
+        <div class="modal fade" id="welcomeModal" tabindex="-1" aria-labelledby="welcomeModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered">
+                <div class="modal-content rounded-4 shadow">
+                    <div class="modal-header p-0 position-relative" style="height: 120px; overflow: hidden; border-bottom: none;">
+                        <img src="assets/ai_header.png" alt="Presentasi Header" style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0; left: 0; z-index: 0;">
+                    </div>
+                    <div class="modal-body p-4 pt-0">
+                        <h4 class="fw-bold mt-4 mb-3" style="font-size: 2rem;">Nikmati Berkolaborasi Bersama SAGA AI</h4>
+                        <!-- <p class="mb-4">SAGA Asisten AI yang siap membantu proses belajar Anda. Ajukan pertanyaan seputar pelajaran, minta bantuan mengerjakan tugas, atau diskusikan materi yang sulit dipahami.</p> -->
+                        <div class="alert border bg-light mb-2" style="border-radius: 15px; cursor: pointer;" id="dataAlert">
+                            <div class="d-flex">
+                                <i class="bi bi-exclamation-circle-fill fs-4 me-3" style="font-size: 30px; color:rgb(219, 106, 68)"></i>
+                                <div>
+                                    <p class="p-0 m-0 fw-bold" style="font-size: 14px;">Izinkan Kami Mengawasi Data Anda</p>
+                                    <p class="p-0 m-0 text-muted" style="font-size: 12px;">Dikarenakan perilisan awal SAGA, kami akan memonitor seluruh percakapan Anda bersama SAGA.</p>
+                                    <div class="mt-2">
+                                        <a class="a-0 m-0 text-muted" style="font-size: 12px; cursor: pointer;">Kenapa data saya di awasi?</a>
+                                        <i class="bi bi-chevron-down text-muted ms-1" id="toggleIcon"></i>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="collapse mt-3" id="dataExplanation">
+                                <div class="card card-body bg-white border-0" style="font-size: 12px;">
+                                    <p class="mt-2 mb-0">Untuk memastikan penggunaan SAGA AI tetap efisien dan tidak melebihi batas penggunaan, sistem hanya mencatat jumlah pemakaian, bukan isi percakapan. <br><br>Sebagai tim IT, kami tetap menjunjung tinggi kerahasiaan data Anda serta privasi Anda selama
+                                        percakapan dengan SAGA. Kami menjamin tidak ada yang mengakses atau membaca isi interaksi Anda dengan SAGA.
+
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <script>
+                            document.addEventListener('DOMContentLoaded', function() {
+                                const dataAlert = document.getElementById('dataAlert');
+                                const dataExplanation = document.getElementById('dataExplanation');
+                                const toggleIcon = document.getElementById('toggleIcon');
+
+                                dataAlert.addEventListener('click', function() {
+                                    $(dataExplanation).collapse('toggle');
+                                    toggleIcon.classList.toggle('bi-chevron-down');
+                                    toggleIcon.classList.toggle('bi-chevron-up');
+                                });
+                            });
+                        </script>
+                        <div class="alert border bg-light mb-4" style="border-radius: 15px;">
+                            <div class="d-flex">
+                                <i class="bi bi-check-circle-fill fs-4 me-3" style="font-size: 30px; color:rgb(219, 106, 68)"></i>
+                                <div>
+                                    <p class="p-0 m-0 fw-bold" style="font-size: 14px;">Periksa Kembali Respons SAGA</p>
+                                    <p class="p-0 m-0 text-muted" style="font-size: 12px;">Tim IT SMAGA tidak menjamin keakuratan data yang dihasilkan oleh SAGA, oleh karena itu cek kembali setiap respons SAGA.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" id="dontShowAgainCheck">
+                            <label class="form-check-label text-muted" for="dontShowAgainCheck" style="font-size: 14px;">
+                                <p class="text-muted">Jangan tampilkan pesan ini selama saya aktif</p>
+                            </label>
+                        </div>
+                        <div class="d-flex mt-3">
+                            <button type="button" class="btn flex-fill" id="startButton" style="background-color: rgb(218, 119, 86); color: white; border-radius:15px;" data-bs-dismiss="modal">Mulai Bertanya</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Script to show welcome modal on page load -->
+        <script>
+            document.addEventListener('DOMContentLoaded', function() {
+                // Check if PHP session has hideWelcomeModal flag
+                <?php if (!isset($_SESSION['hideWelcomeModal']) || $_SESSION['hideWelcomeModal'] !== true): ?>
+                    // Show welcome modal after loading screen disappears
+                    setTimeout(function() {
+                        const welcomeModal = new bootstrap.Modal(document.getElementById('welcomeModal'));
+                        welcomeModal.show();
+                    }, 1500); // Show after loading screen (1000ms) + fade out (500ms)
+                <?php endif; ?>
+
+                // Add event listener to "Start" button to check if "Don't show again" is checked
+                document.getElementById('startButton').addEventListener('click', function() {
+                    if (document.getElementById('dontShowAgainCheck').checked) {
+                        // Use AJAX to set the session variable directly in this file
+                        fetch('ai.php', {
+                                method: 'POST',
+                                headers: {
+                                    'Content-Type': 'application/json',
+                                    'X-Set-Modal-Preference': 'true' // Custom header to identify this request
+                                },
+                                body: JSON.stringify({
+                                    hideWelcomeModal: true
+                                })
+                            })
+                            .then(response => response.json())
+                            .then(data => {
+                                console.log('Modal preference saved:', data);
+                            })
+                            .catch(error => {
+                                console.error('Error saving modal preference:', error);
+                            });
+
+                        // Set session in client-side to avoid showing modal after page refresh
+                        localStorage.setItem('hideWelcomeModal', 'true');
+                    }
+                    // Modal will be hidden automatically due to data-bs-dismiss="modal"
+                });
+
+                // Also check localStorage on page load
+                if (localStorage.getItem('hideWelcomeModal') === 'true') {
+                    // Don't show the modal if user previously checked "don't show again"
+                    const modalElement = document.getElementById('welcomeModal');
+                    if (modalElement && modalElement._isShown) {
+                        const welcomeModal = bootstrap.Modal.getInstance(modalElement);
+                        if (welcomeModal) welcomeModal.hide();
+                    }
+                }
+            });
+        </script>
+
+        <?php
+        // Handle the AJAX request to set session variable
+        if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_SERVER['HTTP_X_SET_MODAL_PREFERENCE'])) {
+            // Get JSON data
+            $jsonData = file_get_contents('php://input');
+            $data = json_decode($jsonData, true);
+
+            if (isset($data['hideWelcomeModal']) && $data['hideWelcomeModal'] === true) {
+                $_SESSION['hideWelcomeModal'] = true;
+                echo json_encode(['success' => true, 'message' => 'Modal preference saved']);
+                exit;
+            }
+        }
+        ?>
+

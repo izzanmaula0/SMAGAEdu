@@ -1,0 +1,19 @@
+{
+    "name": "izzan/smaga-belajar",
+    "autoload": {
+        "psr-4": {
+            "Izzan\\SmagaBelajar\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhammad Fadhil",
+            "email": "izzanmaula0@gmail.com"
+        }
+    ],
+    "require": {
+        "smalot/pdfparser": "^2.11",
+        "phpoffice/phpspreadsheet": "1.29",
+        "phpoffice/phpword": "^1.3"
+    }
+}

@@ -1,0 +1,100 @@
+SESSION: Array
+(
+    [userid] => fadhilmanfa
+    [nama] => Muhammad Fadhil Manfa
+    [level] => guru
+    [jabatan] => Staf TU
+)
+
+POST: Array
+(
+    [projectName] => aaaaaaaaa
+)
+
+FILES: Array
+(
+)
+
+Timestamp: 2025-01-24 15:01:16
+
+SESSION: Array
+(
+    [userid] => fadhilmanfa
+    [nama] => Muhammad Fadhil Manfa
+    [level] => guru
+    [jabatan] => Staf TU
+)
+
+POST: Array
+(
+    [projectName] => aaaaaaaaa
+    [content] => Array
+        (
+            [0] => Array
+                (
+                    [title] => KOP ESAS INFORMATIKA GANJIL 2024 Kelas X.docx
+                    [text] => 58.21 KB
+                )
+
+        )
+
+)
+
+FILES: Array
+(
+    [files] => Array
+        (
+            [name] => Array
+                (
+                    [0] => KOP ESAS INFORMATIKA GANJIL 2024 Kelas X.docx
+                )
+
+            [full_path] => Array
+                (
+                    [0] => KOP ESAS INFORMATIKA GANJIL 2024 Kelas X.docx
+                )
+
+            [type] => Array
+                (
+                    [0] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\xampp\tmp\phpBE34.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 59611
+                )
+
+        )
+
+)
+
+Timestamp: 2025-01-24 15:01:16
+
+SESSION: Array
+(
+    [userid] => fadhilmanfa
+    [nama] => Muhammad Fadhil Manfa
+    [level] => guru
+    [jabatan] => Staf TU
+)
+
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+Timestamp: 2025-01-24 15:01:56
+
