@@ -1,3 +1,4 @@
-echo ".env"
-echo ".ftpquota"
-echo ".user.ini"
+echo ".env" > .gitignore
+echo ".ftpquota" >> .gitignore
+echo "*.log" >> .gitignore
+echo "error_log" >> .gitignore
