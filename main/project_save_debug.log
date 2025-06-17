@@ -1,0 +1,579 @@
+SESSION: Array
+(
+    [userid] => fadhilmanfa
+    [nama] => Muhammad Fadhil Manfa
+    [level] => guru
+    [jabatan] => Staf TU
+)
+
+POST: Array
+(
+    [projectName] => vvvvvvvv
+)
+
+FILES: Array
+(
+)
+
+Timestamp: 2025-01-24 15:03:55
+
+SESSION: Array
+(
+    [userid] => fadhilmanfa
+    [nama] => Muhammad Fadhil Manfa
+    [level] => guru
+    [jabatan] => Staf TU
+)
+
+POST: Array
+(
+    [projectName] => vvvvvvvv
+    [content] => Array
+        (
+            [0] => Array
+                (
+                    [title] => tes_jawaban1.docx
+                    [text] => 13.67 KB
+                )
+
+        )
+
+)
+
+FILES: Array
+(
+    [files] => Array
+        (
+            [name] => Array
+                (
+                    [0] => tes_jawaban1.docx
+                )
+
+            [full_path] => Array
+                (
+                    [0] => tes_jawaban1.docx
+                )
+
+            [type] => Array
+                (
+                    [0] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\xampp\tmp\php2D21.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 13999
+                )
+
+        )
+
+)
+
+Timestamp: 2025-01-24 15:03:55
+
+SESSION: Array
+(
+    [userid] => fadhilmanfa
+    [nama] => Muhammad Fadhil Manfa
+    [level] => guru
+    [jabatan] => Staf TU
+)
+
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+Timestamp: 2025-01-24 15:04:56
+
+SESSION: Array
+(
+    [userid] => fadhilmanfa
+    [nama] => Muhammad Fadhil Manfa
+    [level] => guru
+    [jabatan] => Staf TU
+)
+
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+Timestamp: 2025-01-24 15:05:00
+
+SESSION: Array
+(
+    [userid] => fadhilmanfa
+    [nama] => Muhammad Fadhil Manfa
+    [level] => guru
+    [jabatan] => Staf TU
+)
+
+POST: Array
+(
+    [projectName] => aaaaaa
+)
+
+FILES: Array
+(
+    [files] => Array
+        (
+            [name] => Array
+                (
+                    [0] => KOP ESAS INFORMATIKA GANJIL 2024 Kelas X.docx
+                )
+
+            [full_path] => Array
+                (
+                    [0] => KOP ESAS INFORMATIKA GANJIL 2024 Kelas X.docx
+                )
+
+            [type] => Array
+                (
+                    [0] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\xampp\tmp\php217.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 59611
+                )
+
+        )
+
+)
+
+Timestamp: 2025-01-24 15:08:06
+
+SESSION: Array
+(
+    [userid] => fadhilmanfa
+    [nama] => Muhammad Fadhil Manfa
+    [level] => guru
+    [jabatan] => Staf TU
+)
+
+POST: Array
+(
+    [projectName] => aaaaaa
+)
+
+FILES: Array
+(
+    [files] => Array
+        (
+            [name] => Array
+                (
+                    [0] => KOP ESAS INFORMATIKA GANJIL 2024 Kelas X.docx
+                )
+
+            [full_path] => Array
+                (
+                    [0] => KOP ESAS INFORMATIKA GANJIL 2024 Kelas X.docx
+                )
+
+            [type] => Array
+                (
+                    [0] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\xampp\tmp\php218.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 59611
+                )
+
+        )
+
+)
+
+Timestamp: 2025-01-24 15:08:06
+
+SESSION: Array
+(
+    [userid] => fadhilmanfa
+    [nama] => Muhammad Fadhil Manfa
+    [level] => guru
+    [jabatan] => Staf TU
+)
+
+POST: Array
+(
+    [projectName] => aaaaaa
+    [content] => Array
+        (
+            [0] => Array
+                (
+                    [title] => KOP ESAS INFORMATIKA GANJIL 2024 Kelas X.docx
+                    [text] => 58.21 KB
+                )
+
+        )
+
+)
+
+FILES: Array
+(
+    [files] => Array
+        (
+            [name] => Array
+                (
+                    [0] => KOP ESAS INFORMATIKA GANJIL 2024 Kelas X.docx
+                )
+
+            [full_path] => Array
+                (
+                    [0] => KOP ESAS INFORMATIKA GANJIL 2024 Kelas X.docx
+                )
+
+            [type] => Array
+                (
+                    [0] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\xampp\tmp\php229.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 59611
+                )
+
+        )
+
+)
+
+Timestamp: 2025-01-24 15:08:06
+
+SESSION: Array
+(
+    [userid] => fadhilmanfa
+    [nama] => Muhammad Fadhil Manfa
+    [level] => guru
+    [jabatan] => Staf TU
+)
+
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+Timestamp: 2025-01-24 15:09:22
+
+POST Data: Array
+(
+    [projectName] => cek lagi
+)
+
+FILES Data: Array
+(
+)
+
+Timestamp: 2025-01-24 15:10:45
+
+POST Data: Array
+(
+    [projectName] => cek lagi
+)
+
+FILES Data: Array
+(
+)
+
+Timestamp: 2025-01-24 15:10:45
+
+POST Data: Array
+(
+    [projectName] => cek lagi
+    [content] => Array
+        (
+            [0] => Array
+                (
+                    [title] => 678f5305a953b.docx
+                    [text] => 14.38 KB
+                )
+
+        )
+
+)
+
+FILES Data: Array
+(
+    [files] => Array
+        (
+            [name] => Array
+                (
+                    [0] => 678f5305a953b.docx
+                )
+
+            [full_path] => Array
+                (
+                    [0] => 678f5305a953b.docx
+                )
+
+            [type] => Array
+                (
+                    [0] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\xampp\tmp\php6C64.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 14720
+                )
+
+        )
+
+)
+
+Timestamp: 2025-01-24 15:10:45
+
+POST Data: Array
+(
+)
+
+FILES Data: Array
+(
+)
+
+Timestamp: 2025-01-24 15:11:09
+
+POST Data: Array
+(
+    [projectName] => cek lagi 3
+)
+
+FILES Data: Array
+(
+)
+
+Timestamp: 2025-01-24 15:12:59
+
+POST Data: Array
+(
+    [projectName] => cek lagi 3
+)
+
+FILES Data: Array
+(
+)
+
+Timestamp: 2025-01-24 15:12:59
+
+POST Data: Array
+(
+    [projectName] => cek lagi 3
+)
+
+FILES Data: Array
+(
+)
+
+Timestamp: 2025-01-24 15:12:59
+
+POST Data: Array
+(
+    [projectName] => cek lagi 3
+    [content] => Array
+        (
+            [0] => Array
+                (
+                    [title] => KOP ESAS INFORMATIKA GANJIL 2024 Kelas X.docx
+                    [text] => 58.21 KB
+                )
+
+        )
+
+)
+
+FILES Data: Array
+(
+    [files] => Array
+        (
+            [name] => Array
+                (
+                    [0] => KOP ESAS INFORMATIKA GANJIL 2024 Kelas X.docx
+                )
+
+            [full_path] => Array
+                (
+                    [0] => KOP ESAS INFORMATIKA GANJIL 2024 Kelas X.docx
+                )
+
+            [type] => Array
+                (
+                    [0] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\xampp\tmp\php79F7.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 59611
+                )
+
+        )
+
+)
+
+Timestamp: 2025-01-24 15:12:59
+
+POST Data: Array
+(
+    [projectName] => cek lagi 4
+)
+
+FILES Data: Array
+(
+)
+
+Timestamp: 2025-01-24 15:14:55
+
+POST Data: Array
+(
+    [projectName] => cek lagi 4
+)
+
+FILES Data: Array
+(
+)
+
+Timestamp: 2025-01-24 15:14:55
+
+POST Data: Array
+(
+    [projectName] => cek lagi 4
+)
+
+FILES Data: Array
+(
+)
+
+Timestamp: 2025-01-24 15:14:55
+
+POST Data: Array
+(
+    [projectName] => cek lagi 4
+)
+
+FILES Data: Array
+(
+)
+
+Timestamp: 2025-01-24 15:14:55
+
+POST Data: Array
+(
+    [projectName] => cek lagi 4
+    [content] => Array
+        (
+            [0] => Array
+                (
+                    [title] => 6791e3ffad7a9_tes_jawaban1 (1).docx
+                    [text] => 13.67 KB
+                )
+
+        )
+
+)
+
+FILES Data: Array
+(
+    [files] => Array
+        (
+            [name] => Array
+                (
+                    [0] => 6791e3ffad7a9_tes_jawaban1 (1).docx
+                )
+
+            [full_path] => Array
+                (
+                    [0] => 6791e3ffad7a9_tes_jawaban1 (1).docx
+                )
+
+            [type] => Array
+                (
+                    [0] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\xampp\tmp\php3ECA.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 13999
+                )
+
+        )
+
+)
+
+Timestamp: 2025-01-24 15:14:55
+
