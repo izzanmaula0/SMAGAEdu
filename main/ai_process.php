@@ -41,7 +41,7 @@ if ($usage['ai_usage_count'] >= 20) {
 }
 
 // Grog AI API configuration
-$api_key = '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';
+$api_key = 'YOUR_API_KEY'; // Ganti dengan API key Groq Anda
 $api_url = 'https://api.groq.com/openai/v1/chat/completions';
 
 $data = [
@@ -68,29 +68,30 @@ $response = curl_exec($ch);
 $http_code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
 curl_close($ch);
 
-function formatAIResponse($text) {
+function formatAIResponse($text)
+{
     // Pastikan ada spasi setelah tanda baca
     $text = preg_replace('/([.!?])(\w)/', '$1 $2', $text);
-    
+
     // Pastikan ada spasi setelah koma
     $text = preg_replace('/,(\w)/', ', $1', $text);
-    
+
     // Ganti multiple newlines dengan maksimal 2 newlines
     $text = preg_replace('/\n{3,}/', "\n\n", $text);
-    
+
     // Konversi newlines ke <br> untuk HTML
     $text = nl2br($text);
-    
+
     return $text;
 }
 
 if ($http_code === 200) {
     $result = json_decode($response, true);
     $ai_response = $result['choices'][0]['message']['content'];
-    
+
     // Format respons AI
     $formatted_response = formatAIResponse($ai_response);
-    
+
     // Update usage count and save chat
     $update_stmt = mysqli_prepare($koneksi, "UPDATE siswa SET ai_usage_count = ai_usage_count + 1 WHERE username = ?");
     mysqli_stmt_bind_param($update_stmt, "s", $userid);
@@ -101,7 +102,7 @@ if ($http_code === 200) {
     mysqli_stmt_bind_param($chat_stmt, "sss", $userid, $message, $formatted_response);
     mysqli_stmt_execute($chat_stmt);
     mysqli_stmt_close($chat_stmt);
-    
+
     echo json_encode(['response' => $formatted_response]);
 } else {
     echo json_encode(['error' => 'AI service error', 'details' => $response]);

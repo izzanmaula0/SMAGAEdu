@@ -360,7 +360,7 @@ $guru = mysqli_fetch_assoc($result);
             const hasilAnalisis = document.getElementById('hasilAnalisis');
 
             // API Key Groq - ganti dengan API key Anda
-            const GROQ_API_KEY = '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';
+            const GROQ_API_KEY = 'YOUR_API_KEY'; // Ganti dengan API key Groq Anda
 
             // Ambil data jawaban dari PHP untuk dikirim ke API
             let jawabanData = [];

@@ -1035,7 +1035,7 @@ function getGrade($value)
                     <div class="">
                         <div class="p-3 d-flex justify-content-center align-items-center" style="height: 32rem;">
                             <?php
-                            $groq_api_key = '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';
+                            $groq_api_key = 'YOUR_API_KEY';
                             $should_analyze = isset($_POST['start_analysis']) && $_POST['start_analysis'] === 'true';
 
                             if ($should_analyze) {
