@@ -134,7 +134,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     }
     try {
         // Setup API Groq
-        $apiKey = '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';  // Ganti dengan API key Anda
+        $apiKey = 'YOUR_API_KEY';  // Ganti dengan API key Anda
         $url = 'https://api.groq.com/openai/v1/chat/completions';
         $soal_generated = [];
 
